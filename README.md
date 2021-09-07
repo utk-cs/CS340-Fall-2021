@@ -14,6 +14,10 @@ Once your PR is open, we'll give feedback / review it if anything is wrong, othe
 
 After your team has a project repo created, feel free to delete your fork of this repo.
 
+### If your PR has been merged
+
+Once your student PR gets merged you should see an invite to join the utk-cs organization. This is where we'll be creating your team repos, so you'll need access to work on your projects.
+
 ## Teams
 
 If you already know who you want to work with, you can follow this same process to create a file under `teams/`.
