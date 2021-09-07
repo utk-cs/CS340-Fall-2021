@@ -19,3 +19,5 @@ After your team has a project repo created, feel free to delete your fork of thi
 If you already know who you want to work with, you can follow this same process to create a file under `teams/`.
 
 Name this file with a proposed name for your team. It should be a markdown file again, and your file and PR should include both GitHub usernames and NetIDs for each team member. If all your team members have already had their personal PR merged and you've all been added to the organization you should assign your other team members as reviewers. Once the whole team approves the PR and meets the project requirements, we'll merge your team's PR and create a repo for your team.
+
+Team size: 3-5 (if you don't have your own team, you'll be matched into groups of mostly 4 per team after Thursday)
