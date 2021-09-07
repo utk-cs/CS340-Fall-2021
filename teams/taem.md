@@ -16,5 +16,5 @@
 ## Project Selection or Proposal
 We propose to automate all TA responsibilities including but not limited to the following features:
 
-* Pass every CS340 student
+* Pass only some CS340 student
 
