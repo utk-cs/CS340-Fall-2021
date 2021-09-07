@@ -1,5 +1,5 @@
-name: Nima Tayefeh
+Full Name: Nima Tayefeh
 
 netid: ntayefeh
 
-github: NimsTay
+GitHub username: NimsTay
