@@ -1,5 +1,0 @@
-git@github.com:wcparham1/CS340-Fall-2021.git
-
-name: William Connor Parham
-netid: wparham1
-github username: wcparham1
