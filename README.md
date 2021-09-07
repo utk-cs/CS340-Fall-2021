@@ -28,6 +28,14 @@ Team size: 3-5 (if you don't have your own team, you'll be matched into groups o
 
 ### Project requirements
 
-While you're allowed to propose your own project, we ask that you stick with Python + Qt so that we are able to most effectively grade your work. If you don't have something in mind we will provide project ideas, and if you have something that's more than Python + Qt (using a database, other language, or something external) you'll have to get it approved by Dr. Henley first. (All the TAs need to be able to run/grade/evaluate your code and app.)
+We provide 3 projects or you're allowed to propose your own project, we ask that you stick with Python + Qt so that we are able to most effectively grade your work. If you don't have something in mind we will provide project ideas, and if you have something that's more than Python + Qt (using a database, other language, or something external) you'll have to get it approved by Dr. Henley first. (All the TAs need to be able to run/grade/evaluate your code and app.)
+
+In addition to using Python and Qt you should use some other freely available / open API. Some examples include weather APIs, Wikipedia / free wikis, public APIs like GitHub's, etc. We're pretty generic about the term "API" so this could also include non-internet APIs like other python libraries, local services, or other non-gui frameworks. In general we're looking for you to demonstrate that you can create a UI that can interface with something else non-graphical.
 
 If you aren't sure about a project idea, go ahead and open a PR for your team and we'll give you feedback there.
+
+The 3 project options (if you do not wish to propose your own):
+
+- A weather app that accesses an online, public (no or free authentication) API to retrieve weather data and display it graphically to the user, with some amount of interactivity
+- A wiki reader that pulls data from an online wiki (e.g. Wikipedia), using the MediaWiki API and allowing users to do more than just read a page
+- A note taking app that saves notes to a local file database (e.g. SQLite), lets users search their notes and export them, and has revision history or undo/redo functions
