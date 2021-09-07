@@ -1,3 +1,3 @@
-Jay Amin
-jamin:
-Jamin11:
+Full Name: Jay Amin   
+NETID: jamin   
+GitHub Username: Jamin11  
