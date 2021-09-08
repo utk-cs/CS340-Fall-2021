@@ -1,5 +1,5 @@
 Fail CS340 students
-# Taem
+# Dragon
 
 ## Contributors
 * Timothy Player
@@ -8,14 +8,14 @@ Fail CS340 students
 * Tanner Fowler
     * netid: 
     * Github username: 
-* Karan 
+* Karan Pankaj Kumar Patel
     * netid: 
     * Github username: 	
-* Elijah
+* Elijah Berberette
     * netid:
     * Github username: 
 
 
 ## Proposal
 
-We don't know what the project is yet...
+We would like to do the weather app design.
