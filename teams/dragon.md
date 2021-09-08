@@ -6,16 +6,16 @@ Fail CS340 students
     * netid: tplayer
     * Github username: tlplayer
 * Tanner Fowler
-    * netid: 
-    * Github username: 
+    * netid: tfowler6 
+    * Github username: tfowler6
 * Karan Pankaj Kumar Patel
-    * netid: 
-    * Github username: 	
+    * netid: kpatel68
+    * Github username: 	kpatel68
 * Elijah Berberette
-    * netid:
-    * Github username: 
+    * netid: elidberb
+    * Github username: elidberb
 
 
-## Proposal
+## Selection
 
-We would like to do the weather app design.
+We would like to build the weather app.
