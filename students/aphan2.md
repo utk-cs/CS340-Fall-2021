@@ -1,3 +1,5 @@
-Full Name: An Phan.
-netid: aphan2
+Full name: An Phan
+
+Netid: aphan2
+
 username: xmrtonyx125
