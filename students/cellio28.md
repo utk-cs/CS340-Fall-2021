@@ -1,4 +1,4 @@
-Name: Cole Elliott
+name: Cole Elliott
 
 netid: cellio28
 
