@@ -1,1 +1,3 @@
-Full Name: Andrew Welden netID: awelden2 git username: awelden0
+Full Name: Andrew Welden
+netID: awelden2
+git username: awelden0
