@@ -33,7 +33,10 @@ arutter1:
   name: Aiden Rutter
   netid: arutter1
   team: taem
-  team_pr: null
+  team_pr:
+    merged: true
+    pr: 2
+    state: closed
 awalsh15:
   github: AndersonWalsh
   name: Anderson Walsh
@@ -61,7 +64,7 @@ bklein3:
   team: taem
   team_pr:
     merged: true
-    pr: 100
+    pr: 2
     state: closed
 bmclaug6:
   github: bradymclaugh
@@ -159,7 +162,10 @@ dlee97:
   name: Dylan Lee
   netid: dlee97
   team: taem
-  team_pr: null
+  team_pr:
+    merged: true
+    pr: 2
+    state: closed
 dmunsey4:
   github: Dev5ter
   name: Devin Munsey
