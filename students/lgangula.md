@@ -1,3 +1,3 @@
-Full Name: Lohith Gangula
-netid: 	lgangula
-github username: LohithGangula
+Name: Lohith Gangula
+netid: lgangula
+github user: LohithGangula
