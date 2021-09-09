@@ -7,7 +7,7 @@ students = {}
 studentdir = Path("students")
 studentoutput = Path("students.yml")
 
-pattern = re.compile(r".*?:\W*(?P<name>[\w \-]+)[\W\n]+.*?:\W*(?P<netid>\w+)\W*\n+.*?:\W*(?P<github>[\w\-_]+)", re.M & re.I & re.S)
+pattern = re.compile(r".*?:\W*(?P<name>[\w \-]+?)[\W\n]+.*?:\W*(?P<netid>\w+)\W*\n+.*?:\W*(?P<github>[\w\-_]+)", re.M & re.I & re.S)
 
 for studentfile in studentdir.glob('*.md'):
     netid = str(studentfile).split('.')[0].split('/')[1]
