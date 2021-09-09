@@ -32,6 +32,11 @@ aphan2:
     merged: false
     pr: 122
     state: open
+aroman:
+  github: icedbee
+  name: Anthony Roman
+  netid: aroman
+  team_pr: null
 arutter1:
   github: solsane
   name: Aiden Rutter
@@ -285,10 +290,7 @@ jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
   netid: jrodri33
-  team_pr:
-    merged: false
-    pr: 133
-    state: open
+  team_pr: null
 jsun36:
   github: leoked
   name: Jiawei Sun
@@ -382,10 +384,7 @@ mdeleon1:
   github: mdeleon7
   name: Marco DeLeon
   netid: mdeleon1
-  team_pr:
-    merged: false
-    pr: 133
-    state: open
+  team_pr: null
 mdenise:
   github: marydenise
   name: Mary Denise
@@ -532,6 +531,11 @@ spunjani:
   github: soofinator
   name: Soofi Punjani
   netid: spunjani
+  team_pr: null
+ssuresh6:
+  github: suhilsuresh
+  name: Suhil Suresh
+  netid: ssuresh6
   team_pr: null
 sthomp89:
   github: Thalomir
