@@ -5,7 +5,7 @@ from pathlib import Path
 
 def load(file: Path):
     with file.open('r') as f:
-        data = yaml.load(f)
+        data = yaml.safe_load(f)
     return data
 
 def save(file: Path, data):
