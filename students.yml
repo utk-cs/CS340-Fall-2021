@@ -2,319 +2,669 @@ abhayani:
   github: M9909-AB
   name: Alishan Bhayani
   netid: abhayani
+  team: Team-v2-FINAL1
+  team_pr:
+    merged: true
+    pr: 100
+    state: closed
 aesser:
   github: aeasy370
   name: Alexander Esser
   netid: aesser
+  team: tem
+  team_pr:
+    merged: true
+    pr: 135
+    state: closed
+ahickm18:
+  github: bereket1197
+  name: Alex Hickman
+  netid: ahickm18
+  team_pr: null
 ahughe51:
   github: FueledByPants
   name: Allen Hughes
   netid: ahughe51
+  team_pr:
+    merged: false
+    pr: 120
+    state: open
+aphan2:
+  github: xmrtonyx125
+  name: An Phan
+  netid: aphan2
+  team_pr:
+    merged: false
+    pr: 122
+    state: open
+aroman:
+  github: icedbee
+  name: Anthony Roman
+  netid: aroman
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 arutter1:
   github: solsane
   name: Aiden Rutter
   netid: arutter1
+  team: taem
+  team_pr:
+    merged: true
+    pr: 2
+    state: closed
 awalsh15:
   github: AndersonWalsh
   name: Anderson Walsh
   netid: awalsh15
+  team_pr: null
 awelden2:
   github: awelden0
   name: Andrew Welden
   netid: awelden2
+  team_pr: null
 batkhamj:
   github: batkhamj
   name: Brandon Atkhamjonov
   netid: batkhamj
+  team_pr: null
 bgullet1:
   github: BGull00
   name: Bryson Gullett
   netid: bgullet1
+  team_pr: null
 bklein3:
   github: robobenklein
   name: Ben Klein
   netid: bklein3
+  team: taem
+  team_pr:
+    merged: true
+    pr: 2
+    state: closed
+bmclaug6:
+  github: bradymclaugh
+  name: Brady McLaughlin
+  netid: bmclaug6
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 bparke37:
   github: bparke37
   name: Bryce Parker
   netid: bparke37
+  team_pr: null
 bschwar7:
   github: username
   name: Benjamin Schartz
   netid: bschwar7
+  team_pr: null
 cbrow216:
   github: CadeBrown
   name: Cade Brown
   netid: cbrow216
+  team_pr: null
 ccondon:
   github: charliecondon
   name: Charlie Condon
   netid: ccondon
+  team_pr: null
 cdegawa:
   github: 1480c1
   name: Christopher Degawa
   netid: cdegawa
+  team: Team-v2-FINAL1
+  team_pr:
+    merged: true
+    pr: 100
+    state: closed
 cellio28:
   github: colevelliott2000
   name: Cole Elliott
   netid: cellio28
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 cjohn260:
   github: colepjohn
   name: Cole Johnston
   netid: cjohn260
+  team_pr:
+    merged: false
+    pr: 123
+    state: open
 clee95:
   github: cjlee95
   name: Christopher Lee
   netid: clee95
+  team_pr:
+    merged: false
+    pr: 124
+    state: open
 cmoore99:
   github: Crestor123
   name: Chris Moore
   netid: cmoore99
+  team_pr: null
 crinks:
   github: CarolineRinks
   name: Caroline Rinks
   netid: crinks
+  team_pr:
+    merged: false
+    pr: 123
+    state: open
+cwang93:
+  github: mrchausgit
+  name: Charles Wang
+  netid: cwang93
+  team_pr: null
 dbeaty:
   github: DBeatyPreston
   name: Dennis Preston Beaty
   netid: dbeaty
+  team_pr:
+    merged: false
+    pr: 123
+    state: open
+dbyrd15:
+  github: EmeraldHarbor
+  name: David Byrd
+  netid: dbyrd15
+  team_pr: null
 dhuang14:
   github: dhuang0212
-  name: 'David Huang '
+  name: David Huang
   netid: dhuang14
+  team_pr: null
 dkenne15:
   github: dominicmkennedy
   name: Dominic Kennedy
   netid: dkenne15
+  team_pr: null
 dlee97:
   github: dlee865
   name: Dylan Lee
   netid: dlee97
+  team: taem
+  team_pr:
+    merged: true
+    pr: 2
+    state: closed
 dmunsey4:
   github: Dev5ter
   name: Devin Munsey
   netid: dmunsey4
+  team_pr: null
 eander68:
   github: e-vananderson
   name: Evan Anderson
   netid: eander68
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 elidberb:
   github: elidberb
   name: Elijah Berberette
   netid: elidberb
+  team: dragon
+  team_pr:
+    merged: true
+    pr: 111
+    state: closed
 fprawira:
   github: LouLoog
   name: Fazrian Prawiranata
   netid: fprawira
+  team_pr: null
+fxie6:
+  github: Franklin-Xie
+  name: Franklin Xie
+  netid: fxie6
+  team_pr: null
 gbrown39:
   github: gregbro2
   name: Gregory Brown
   netid: gbrown39
+  team: tem
+  team_pr:
+    merged: true
+    pr: 135
+    state: closed
 gcroisda:
   github: gcrois
   name: Gregory Thomas Croisdale I
   netid: gcroisda
+  team_pr: null
+gwebb13:
+  github: grant-webb1
+  name: Grant Webb
+  netid: gwebb13
+  team_pr: null
 hlam4:
   github: hanson-lam
   name: Hanson Lam
   netid: hlam4
+  team_pr:
+    merged: false
+    pr: 110
+    state: open
 imacdoug:
   github: IanMacDougall
   name: Ian MacDougall
   netid: imacdoug
+  team_pr:
+    merged: false
+    pr: 110
+    state: open
 ipelton:
   github: bepri
   name: Imani Pelton
   netid: ipelton
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 jallbrit:
   github: jallbrit
   name: John Allbritten
   netid: jallbrit
+  team_pr: null
 jamin:
   github: Jamin11
   name: Jay Amin
   netid: jamin
+  team: tem
+  team_pr:
+    merged: true
+    pr: 135
+    state: closed
+jananth2:
+  github: janantha2
+  name: Joshua Anantharaj
+  netid: jananth2
+  team_pr: null
 jarmiger:
   github: jacob-armiger
   name: Jacob Armiger
   netid: jarmiger
+  team_pr: null
 jbradf19:
   github: jAllieB
   name: Juliet Allison Bradford
   netid: jbradf19
+  team_pr: null
 jim5:
   github: troy51538
   name: Joonyoung Im
   netid: jim5
+  team_pr:
+    merged: false
+    pr: 124
+    state: open
+jrodri33:
+  github: joshoua
+  name: Joshoua Rodriguez
+  netid: jrodri33
+  team_pr: null
 jsun36:
   github: leoked
   name: Jiawei Sun
   netid: jsun36
+  team_pr: null
 jwrig117:
   github: joshuakwright
   name: Joshua Wright
   netid: jwrig117
+  team_pr:
+    merged: false
+    pr: 123
+    state: open
+kcraddoc:
+  github: kcraddoc
+  name: Kevin Craddock
+  netid: kcraddoc
+  team_pr: null
 kleland:
   github: kellenrl
   name: Kellen Leland
   netid: kleland
+  team_pr: null
 kmaclin1:
   github: Kmac0103
   name: Kameron Maclin
   netid: kmaclin1
+  team_pr:
+    merged: false
+    pr: 104
+    state: open
 kpatel68:
   github: kpatel68
   name: Karan Patel
   netid: kpatel68
+  team: dragon
+  team_pr:
+    merged: true
+    pr: 111
+    state: closed
 kwooda13:
   github: kwooda13
   name: Kenneth Woodard
   netid: kwooda13
+  team_pr:
+    merged: false
+    pr: 138
+    state: open
 kyumhan:
   github: kyumhan
   name: Kyung Min Han
   netid: kyumhan
+  team_pr:
+    merged: false
+    pr: 124
+    state: open
+lgangula:
+  github: LohithGangula
+  name: Lohith Gangula
+  netid: lgangula
+  team_pr: null
 ljakstas:
   github: ljakstas
-  name: 'Lukas Jakstas '
+  name: Lukas Jakstas
   netid: ljakstas
+  team_pr: null
 lmccombs:
   github: lukepmccombs
   name: Luke McCombs
   netid: lmccombs
+  team_pr:
+    merged: false
+    pr: 104
+    state: open
+lprocto3:
+  github: lproctor10242
+  name: Lauren Proctor
+  netid: lprocto3
+  team_pr:
+    merged: false
+    pr: 110
+    state: open
 lsharpe8:
   github: lsharpe8
   name: Lillian Sharpe
   netid: lsharpe8
+  team_pr: null
 lwrinkle:
   github: LagoonyToons
   name: Logan Wrinkle
   netid: lwrinkle
+  team_pr: null
 mdeleon1:
   github: mdeleon7
   name: Marco DeLeon
   netid: mdeleon1
+  team_pr: null
+mdenise:
+  github: marydenise
+  name: Mary Denise
+  netid: mdenise
+  team_pr: null
 mhughe36:
   github: mhughe36
   name: Michael Hughes
   netid: mhughe36
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 mmathur:
   github: mmathur20
   name: Mahim Mathur
   netid: mmathur
+  team_pr: null
 mwalte21:
   github: MatthewWalters1
   name: Matthew Walters
   netid: mwalte21
+  team_pr: null
 mwyatt14:
   github: s-viour
   name: Matt Wyatt
   netid: mwyatt14
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 ndrake1:
   github: ndrake127
   name: Nickolas Drake
   netid: ndrake1
+  team_pr: null
 npatel79:
   github: napatel79
   name: Neh Patel
   netid: npatel79
+  team_pr:
+    merged: false
+    pr: 124
+    state: open
 ntayefeh:
   github: NimsTay
   name: Nima Tayefeh
   netid: ntayefeh
+  team_pr:
+    merged: false
+    pr: 124
+    state: open
+nyy212:
+  github: wiihop69
+  name: Will Hopkirk
+  netid: nyy212
+  team_pr: null
 otrejome:
   github: omarsitoe
   name: Omar Trejo-Medina
   netid: otrejome
+  team_pr: null
 pattle:
   github: pattle-vols
   name: Paul Attle
   netid: pattle
+  team_pr: null
 pbowlin1:
   github: bowlingparker
   name: Parker Bowling
   netid: pbowlin1
+  team_pr:
+    merged: false
+    pr: 106
+    state: open
 pcollie4:
   github: ParkerNC
   name: Parker Collier
   netid: pcollie4
+  team_pr:
+    merged: false
+    pr: 110
+    state: open
 pvelas:
   github: IDoNotExist3
   name: Paul Velas
   netid: pvelas
+  team_pr:
+    merged: false
+    pr: 120
+    state: open
 reehsemm:
   github: reedsemmel
   name: Reed Semmel
   netid: reehsemm
+  team: Team-v2-FINAL1
+  team_pr:
+    merged: true
+    pr: 100
+    state: closed
+robdgrif:
+  github: robdgrif
+  name: Robert Griffith
+  netid: robdgrif
+  team_pr: null
 rramire7:
   github: rramire7
   name: Richard Ramirez
   netid: rramire7
+  team_pr: null
 rschaff1:
   github: RobertUTK
   name: Robert Schaffer
   netid: rschaff1
+  team_pr: null
 rschenck:
   github: RCSIII
   name: Robert Schenck
   netid: rschenck
+  team_pr: null
+sblank11:
+  github: SKBlank
+  name: Susan Blankenship
+  netid: sblank11
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
+sdahms:
+  github: sdahms
+  name: Sam Dahms
+  netid: sdahms
+  team_pr: null
+sjohn248:
+  github: sjohn248
+  name: Seth Johnson
+  netid: sjohn248
+  team_pr:
+    merged: false
+    pr: 122
+    state: open
 slaughl2:
   github: slaughl2
   name: Sean Laughlin
   netid: slaughl2
+  team: tem
+  team_pr: null
+spate118:
+  github: spate118
+  name: Saahil Patel
+  netid: spate118
+  team: tem
+  team_pr:
+    merged: true
+    pr: 135
+    state: closed
 spunjani:
   github: soofinator
   name: Soofi Punjani
   netid: spunjani
+  team_pr: null
+ssuresh6:
+  github: suhilsuresh
+  name: Suhil Suresh
+  netid: ssuresh6
+  team_pr: null
 sthomp89:
   github: Thalomir
   name: Samuel Thompson
   netid: sthomp89
+  team_pr:
+    merged: false
+    pr: 104
+    state: open
 sxue3:
   github: selxue
   name: Selena Xue
   netid: sxue3
+  team_pr: null
 tainley:
   github: tristan-ainley
   name: Tristan Ainley
   netid: tainley
+  team_pr: null
 tfowler6:
   github: tfowler6
   name: Tanner Joseph Fowler
   netid: tfowler6
+  team: dragon
+  team_pr:
+    merged: true
+    pr: 111
+    state: closed
+tkhan7:
+  github: taha59
+  name: Taha Naseem Khan
+  netid: tkhan7
+  team_pr:
+    merged: false
+    pr: 122
+    state: open
 tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
   netid: tneuefei
+  team_pr: null
 tplayer:
   github: tlplayer
   name: Timothy Player
   netid: tplayer
+  team: dragon
+  team_pr:
+    merged: true
+    pr: 111
+    state: closed
 vaiely:
   github: VishalAiely
   name: Vishal Aiely
   netid: vaiely
+  team_pr: null
 vbhupati:
   github: dearvarun
   name: Varun Bhupatiraju
   netid: vbhupati
+  team_pr:
+    merged: false
+    pr: 120
+    state: open
 vhanset:
   github: vhanset
   name: Victor Hanset
   netid: vhanset
+  team_pr: null
 wjohns53:
   github: WillNJohnson
   name: William Johnson
   netid: wjohns53
+  team_pr: null
 wparham1:
   github: wcparham1
   name: William Connor Parham
   netid: wparham1
+  team_pr: null
 yahmad1:
   github: yahmad1-vols
   name: Yamin Ahmad
   netid: yahmad1
+  team_pr:
+    merged: false
+    pr: 104
+    state: open
 zhamm:
   github: zhammgit
   name: Zachary Hamm
   netid: zhamm
+  team_pr: null
