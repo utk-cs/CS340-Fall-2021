@@ -1,5 +1,5 @@
-Full name: Taha Naseem Khan
+name: Taha Naseem Khan
 
 netid: tkhan7
 
-Github Username: taha59
+github username: taha59
