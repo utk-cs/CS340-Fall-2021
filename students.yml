@@ -147,6 +147,10 @@ dbeaty:
     merged: false
     pr: 123
     state: open
+dbyrd15:
+  github: EmeraldHarbor
+  name: David Byrd
+  netid: dbyrd15
 dhuang14:
   github: dhuang0212
   name: David Huang
@@ -258,6 +262,10 @@ jim5:
     merged: false
     pr: 124
     state: open
+jrodri33:
+  github: joshoua
+  name: Joshoua Rodriguez
+  netid: jrodri33
 jsun36:
   github: leoked
   name: Jiawei Sun
