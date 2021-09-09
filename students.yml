@@ -41,7 +41,11 @@ aroman:
   github: icedbee
   name: Anthony Roman
   netid: aroman
-  team_pr: null
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 arutter1:
   github: solsane
   name: Aiden Rutter
@@ -118,7 +122,11 @@ cellio28:
   github: colevelliott2000
   name: Cole Elliott
   netid: cellio28
-  team_pr: null
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 cjohn260:
   github: colepjohn
   name: Cole Johnston
@@ -402,7 +410,11 @@ mhughe36:
   github: mhughe36
   name: Michael Hughes
   netid: mhughe36
-  team_pr: null
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 mmathur:
   github: mmathur20
   name: Mahim Mathur
@@ -417,7 +429,11 @@ mwyatt14:
   github: s-viour
   name: Matt Wyatt
   netid: mwyatt14
-  team_pr: null
+  team: burritobrigade
+  team_pr:
+    merged: true
+    pr: 140
+    state: closed
 ndrake1:
   github: ndrake127
   name: Nickolas Drake
