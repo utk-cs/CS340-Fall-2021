@@ -14,10 +14,11 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams:
         teamname = str(teammd).split('.')[0].split('/')[1]
         with teammd.open('r') as f:
             teamdata = f.read()
-        teams[teamname] = {
-            "name": teamname,
-            "members": {},
-        }
+        if teamname not in teams:
+            teams[teamname] = {}
+        teams[teamname]["name"] = teamname
+        teams[teamname]["members"] = {}
+
         for netid in students.keys():
             if netid in teamdata:
                 teams[teamname]["members"][netid] = {
