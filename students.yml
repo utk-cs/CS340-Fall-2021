@@ -88,7 +88,10 @@ bmclaug6:
   github: bradymclaugh
   name: Brady McLaughlin
   netid: bmclaug6
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 bparke37:
   github: bparke37
   name: Bryce Parker
@@ -202,7 +205,10 @@ eander68:
   github: e-vananderson
   name: Evan Anderson
   netid: eander68
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 elidberb:
   github: elidberb
   name: Elijah Berberette
@@ -261,7 +267,10 @@ ipelton:
   github: bepri
   name: Imani Pelton
   netid: ipelton
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 jallbrit:
   github: jallbrit
   name: John Allbritten
@@ -527,7 +536,10 @@ sblank11:
   github: SKBlank
   name: Susan Blankenship
   netid: sblank11
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 143
+    state: open
 sdahms:
   github: sdahms
   name: Sam Dahms
