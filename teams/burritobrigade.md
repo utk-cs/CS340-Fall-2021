@@ -1,11 +1,12 @@
-# Team ACMM
+# Team Burrito Brigade
+AKA Team Grande Homewrecker (from Moe's)
 ## Contributors
 
 * Anthony Roman
   * netid: aroman
   * Github username: icedbee
 
-* Cole Elliot
+* Cole Elliott
   * netid: cellio28
   * Github username: colevelliott2000
 
