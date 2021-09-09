@@ -1,1 +1,3 @@
-Full Name: Lauren Proctor netID: lprocto3 git username: lproctor10242
+Full Name: Lauren Proctor 
+netID: lprocto3 
+git username: lproctor10242
