@@ -151,6 +151,7 @@ dbyrd15:
   github: EmeraldHarbor
   name: David Byrd
   netid: dbyrd15
+  team_pr: null
 dhuang14:
   github: dhuang0212
   name: David Huang
@@ -184,10 +185,11 @@ elidberb:
   github: elidberb
   name: Elijah Berberette
   netid: elidberb
+  team: dragon
   team_pr:
-    merged: false
+    merged: true
     pr: 111
-    state: open
+    state: closed
 fprawira:
   github: LouLoog
   name: Fazrian Prawiranata
@@ -266,6 +268,7 @@ jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
   netid: jrodri33
+  team_pr: null
 jsun36:
   github: leoked
   name: Jiawei Sun
@@ -296,10 +299,11 @@ kpatel68:
   github: kpatel68
   name: Karan Patel
   netid: kpatel68
+  team: dragon
   team_pr:
-    merged: false
+    merged: true
     pr: 111
-    state: open
+    state: closed
 kwooda13:
   github: kwooda13
   name: Kenneth Woodard
@@ -513,10 +517,11 @@ tfowler6:
   github: tfowler6
   name: Tanner Joseph Fowler
   netid: tfowler6
+  team: dragon
   team_pr:
-    merged: false
+    merged: true
     pr: 111
-    state: open
+    state: closed
 tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
@@ -526,10 +531,11 @@ tplayer:
   github: tlplayer
   name: Timothy Player
   netid: tplayer
+  team: dragon
   team_pr:
-    merged: false
+    merged: true
     pr: 111
-    state: open
+    state: closed
 vaiely:
   github: VishalAiely
   name: Vishal Aiely

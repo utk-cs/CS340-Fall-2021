@@ -13,6 +13,25 @@ Team-v2-FINAL1:
       name: Reed Semmel
       netid: reehsemm
   name: Team-v2-FINAL1
+dragon:
+  members:
+    elidberb:
+      github: elidberb
+      name: Elijah Berberette
+      netid: elidberb
+    kpatel68:
+      github: kpatel68
+      name: Karan Patel
+      netid: kpatel68
+    tfowler6:
+      github: tfowler6
+      name: Tanner Joseph Fowler
+      netid: tfowler6
+    tplayer:
+      github: tlplayer
+      name: Timothy Player
+      netid: tplayer
+  name: dragon
 taem:
   members:
     arutter1:
