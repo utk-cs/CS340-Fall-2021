@@ -355,7 +355,10 @@ kcraddoc:
   github: kcraddoc
   name: Kevin Craddock
   netid: kcraddoc
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 152
+    state: open
 kleland:
   github: kellenrl
   name: Kellen Leland
@@ -478,6 +481,7 @@ mxw557:
   github: jrduell
   name: Jacob Duell
   netid: mxw557
+  team_pr: null
 ndrake1:
   github: ndrake127
   name: Nickolas Drake
@@ -487,6 +491,7 @@ nmorri11:
   github: Notatoe
   name: Noah Mattson Morris
   netid: nmorri11
+  team_pr: null
 npatel79:
   github: napatel79
   name: Neh Patel
@@ -614,7 +619,10 @@ spunjani:
   github: soofinator
   name: Soofi Punjani
   netid: spunjani
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 152
+    state: open
 ssuresh6:
   github: suhilsuresh
   name: Suhil Suresh
@@ -707,7 +715,10 @@ wparham1:
   github: wcparham1
   name: William Connor Parham
   netid: wparham1
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 152
+    state: open
 yahmad1:
   github: yahmad1-vols
   name: Yamin Ahmad
