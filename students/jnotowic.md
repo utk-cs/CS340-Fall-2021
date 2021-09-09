@@ -1,1 +1,3 @@
-Full Name: Jake Notowich Net ID: jnotowic github username: jnotowich
+Full Name: Jake Notowich 
+netid: jnotowic 
+github username: jnotowich
