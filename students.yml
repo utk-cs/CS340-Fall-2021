@@ -210,6 +210,10 @@ gcroisda:
   name: Gregory Thomas Croisdale I
   netid: gcroisda
   team_pr: null
+gwebb13:
+  github: grant-webb1
+  name: Grant Webb
+  netid: gwebb13
 hlam4:
   github: hanson-lam
   name: Hanson Lam
@@ -282,6 +286,10 @@ jwrig117:
     merged: false
     pr: 123
     state: open
+kcraddoc:
+  github: kcraddoc
+  name: Kevin Craddock
+  netid: kcraddoc
 kleland:
   github: kellenrl
   name: Kellen Leland
@@ -472,6 +480,10 @@ sblank11:
   name: Susan Blankenship
   netid: sblank11
   team_pr: null
+sdahms:
+  github: sdahms
+  name: Sam Dahms
+  netid: sdahms
 sjohn248:
   github: sjohn248
   name: Seth Johnson
@@ -522,6 +534,10 @@ tfowler6:
     merged: true
     pr: 111
     state: closed
+tkhan7:
+  github: taha59
+  name: Taha Naseem Khan
+  netid: tkhan7
 tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
