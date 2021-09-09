@@ -1,3 +1,7 @@
+abahour2:
+  github: Abdurh-man
+  name: Abdurhman Bahour
+  netid: abahour2
 abhayani:
   github: M9909-AB
   name: Alishan Bhayani
@@ -21,6 +25,10 @@ ahickm18:
   name: Alex Hickman
   netid: ahickm18
   team_pr: null
+ahillhou:
+  github: ahillhou
+  name: Andy Hillhouse
+  netid: ahillhou
 ahughe51:
   github: FueledByPants
   name: Allen Hughes
@@ -201,6 +209,10 @@ dmunsey4:
   name: Devin Munsey
   netid: dmunsey4
   team_pr: null
+dwhite75:
+  github: dwhite75
+  name: Darius White
+  netid: dwhite75
 eander68:
   github: e-vananderson
   name: Evan Anderson
@@ -308,6 +320,14 @@ jim5:
     merged: false
     pr: 124
     state: open
+jnotowic:
+  github: jnotowich
+  name: Jake Notowich
+  netid: jnotowic
+jpage21:
+  github: jacobgpagee
+  name: Jacob Page
+  netid: jpage21
 jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
@@ -645,6 +665,10 @@ vhanset:
   name: Victor Hanset
   netid: vhanset
   team_pr: null
+vrb684:
+  github: mward-23
+  name: McKenzie Ward
+  netid: vrb684
 wjohns53:
   github: WillNJohnson
   name: William Johnson

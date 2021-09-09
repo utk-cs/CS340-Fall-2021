@@ -1,5 +1,5 @@
 Full Name: Abdurhman Bahour
 
-Net ID: Abahour2
+Net ID: abahour2
 
 GitHub Username: Abdurh-man
