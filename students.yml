@@ -11,10 +11,11 @@ aesser:
   github: aeasy370
   name: Alexander Esser
   netid: aesser
+  team: tem
   team_pr:
-    merged: false
+    merged: true
     pr: 135
-    state: open
+    state: closed
 ahughe51:
   github: FueledByPants
   name: Allen Hughes
@@ -207,10 +208,11 @@ gbrown39:
   github: gregbro2
   name: Gregory Brown
   netid: gbrown39
+  team: tem
   team_pr:
-    merged: false
+    merged: true
     pr: 135
-    state: open
+    state: closed
 gcroisda:
   github: gcrois
   name: Gregory Thomas Croisdale I
@@ -251,10 +253,11 @@ jamin:
   github: Jamin11
   name: Jay Amin
   netid: jamin
+  team: tem
   team_pr:
-    merged: false
+    merged: true
     pr: 135
-    state: open
+    state: closed
 jananth2:
   github: janantha2
   name: Joshua Anantharaj
@@ -514,15 +517,17 @@ slaughl2:
   github: slaughl2
   name: Sean Laughlin
   netid: slaughl2
+  team: tem
   team_pr: null
 spate118:
   github: spate118
   name: Saahil Patel
   netid: spate118
+  team: tem
   team_pr:
-    merged: false
+    merged: true
     pr: 135
-    state: open
+    state: closed
 spunjani:
   github: soofinator
   name: Soofi Punjani

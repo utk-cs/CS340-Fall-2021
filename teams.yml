@@ -47,3 +47,26 @@ taem:
       name: Dylan Lee
       netid: dlee97
   name: taem
+tem:
+  members:
+    aesser:
+      github: aeasy370
+      name: Alexander Esser
+      netid: aesser
+    gbrown39:
+      github: gregbro2
+      name: Gregory Brown
+      netid: gbrown39
+    jamin:
+      github: Jamin11
+      name: Jay Amin
+      netid: jamin
+    slaughl2:
+      github: slaughl2
+      name: Sean Laughlin
+      netid: slaughl2
+    spate118:
+      github: spate118
+      name: Saahil Patel
+      netid: spate118
+  name: tem
