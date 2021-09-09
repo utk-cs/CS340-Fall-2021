@@ -11,9 +11,10 @@
     * netid: bklein3
     * github username: robobenklein
 
+## Cool stuff
 
 ## Project Selection or Proposal
 We propose to automate all TA responsibilities including but not limited to the following features:
 
-* Fail CS340 students
+* Pass only some CS340 student
 
