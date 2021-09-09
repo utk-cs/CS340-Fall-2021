@@ -23,7 +23,7 @@ with roboyml.open(studentfile) as students:
         if matches.group('netid') != netid:
             raise ValueError(f"{studentfile} netid mismatch")
 
-        if not students[netid]:
+        if netid not in students:
             students[netid] = {
                 "netid": matches.group('netid'),
             }
