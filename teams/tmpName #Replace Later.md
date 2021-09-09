@@ -20,6 +20,4 @@
 ## Cool stuff
 
 ## Project Selection or Proposal
-We propose to automate all TA responsibilities including but not limited to the following features:
-
-* Pass only some CS340 student
+Our project selection will be an application that primarily focuses on the website of the SCP Foundation. The SCP foundation are an acrhive of user-written articles detailing the containment of paranormal phenomena to keep them out of the public eye and to protect the public. We propose an application that will be able to access these articles, sort/organize them into section/folders for later reading/easy reference, and protentially other ways to explore the archives, such as generating a tree showing all links between articles.
