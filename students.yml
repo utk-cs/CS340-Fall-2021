@@ -11,7 +11,10 @@ aesser:
   github: aeasy370
   name: Alexander Esser
   netid: aesser
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 135
+    state: open
 ahughe51:
   github: FueledByPants
   name: Allen Hughes
@@ -204,7 +207,10 @@ gbrown39:
   github: gregbro2
   name: Gregory Brown
   netid: gbrown39
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 135
+    state: open
 gcroisda:
   github: gcrois
   name: Gregory Thomas Croisdale I
@@ -214,6 +220,7 @@ gwebb13:
   github: grant-webb1
   name: Grant Webb
   netid: gwebb13
+  team_pr: null
 hlam4:
   github: hanson-lam
   name: Hanson Lam
@@ -244,7 +251,10 @@ jamin:
   github: Jamin11
   name: Jay Amin
   netid: jamin
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 135
+    state: open
 jananth2:
   github: janantha2
   name: Joshua Anantharaj
@@ -272,7 +282,10 @@ jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
   netid: jrodri33
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 jsun36:
   github: leoked
   name: Jiawei Sun
@@ -290,6 +303,7 @@ kcraddoc:
   github: kcraddoc
   name: Kevin Craddock
   netid: kcraddoc
+  team_pr: null
 kleland:
   github: kellenrl
   name: Kellen Leland
@@ -365,7 +379,10 @@ mdeleon1:
   github: mdeleon7
   name: Marco DeLeon
   netid: mdeleon1
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 mdenise:
   github: marydenise
   name: Mary Denise
@@ -484,6 +501,7 @@ sdahms:
   github: sdahms
   name: Sam Dahms
   netid: sdahms
+  team_pr: null
 sjohn248:
   github: sjohn248
   name: Seth Johnson
@@ -501,7 +519,10 @@ spate118:
   github: spate118
   name: Saahil Patel
   netid: spate118
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 135
+    state: open
 spunjani:
   github: soofinator
   name: Soofi Punjani
@@ -538,6 +559,10 @@ tkhan7:
   github: taha59
   name: Taha Naseem Khan
   netid: tkhan7
+  team_pr:
+    merged: false
+    pr: 122
+    state: open
 tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
