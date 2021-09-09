@@ -16,6 +16,11 @@ aesser:
     merged: true
     pr: 135
     state: closed
+ahickm18:
+  github: bereket1197
+  name: Alex Hickman
+  netid: ahickm18
+  team_pr: null
 ahughe51:
   github: FueledByPants
   name: Allen Hughes
@@ -335,7 +340,10 @@ kwooda13:
   github: kwooda13
   name: Kenneth Woodard
   netid: kwooda13
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 138
+    state: open
 kyumhan:
   github: kyumhan
   name: Kyung Min Han
@@ -479,6 +487,11 @@ reehsemm:
     merged: true
     pr: 100
     state: closed
+robdgrif:
+  github: robdgrif
+  name: Robert Griffith
+  netid: robdgrif
+  team_pr: null
 rramire7:
   github: rramire7
   name: Richard Ramirez
