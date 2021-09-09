@@ -1,4 +1,4 @@
-# tmpName #Replace Later
+# tmpName
 
 ## Contributors 
 * Allen Hughes
