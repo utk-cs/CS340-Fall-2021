@@ -19,4 +19,4 @@ Team Members:
 - Github Username: ParkerNC
 
 Proposed Team Idea:
- - work in progress
+ - Wiki speed run game
