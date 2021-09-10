@@ -386,10 +386,11 @@ kleland:
   github: kellenrl
   name: Kellen Leland
   netid: kleland
+  team: TMWRK
   team_pr:
-    merged: false
+    merged: true
     pr: 151
-    state: open
+    state: closed
 kmaclin1:
   github: Kmac0103
   name: Kameron Maclin
@@ -482,10 +483,11 @@ mmathur:
   github: mmathur20
   name: Mahim Mathur
   netid: mmathur
+  team: TMWRK
   team_pr:
-    merged: false
+    merged: true
     pr: 151
-    state: open
+    state: closed
 mwalte21:
   github: MatthewWalters1
   name: Matthew Walters
@@ -538,6 +540,11 @@ nyy212:
   github: wiihop69
   name: Will Hopkirk
   netid: nyy212
+  team_pr: null
+oselyuti:
+  github: oselyuti
+  name: Alex Selyutin
+  netid: oselyuti
   team_pr: null
 otrejome:
   github: omarsitoe
@@ -596,10 +603,11 @@ rschaff1:
   github: RobertUTK
   name: Robert Schaffer
   netid: rschaff1
+  team: TMWRK
   team_pr:
-    merged: false
+    merged: true
     pr: 151
-    state: open
+    state: closed
 rschenck:
   github: RCSIII
   name: Robert Schenck
@@ -693,10 +701,11 @@ tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
   netid: tneuefei
+  team: TMWRK
   team_pr:
-    merged: false
+    merged: true
     pr: 151
-    state: open
+    state: closed
 tplayer:
   github: tlplayer
   name: Timothy Player
@@ -733,10 +742,11 @@ wjohns53:
   github: WillNJohnson
   name: William Johnson
   netid: wjohns53
+  team: TMWRK
   team_pr:
-    merged: false
+    merged: true
     pr: 151
-    state: open
+    state: closed
 wparham1:
   github: wcparham1
   name: William Connor Parham
@@ -757,4 +767,9 @@ zhamm:
   github: zhammgit
   name: Zachary Hamm
   netid: zhamm
+  team_pr: null
+zlim2:
+  github: zlim2
+  name: Zi Win Lim
+  netid: zlim2
   team_pr: null

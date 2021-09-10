@@ -1,3 +1,3 @@
-name: Oleksiy(Alex) Selyutin
+name: Alex Selyutin
 netid: oselyuti
 github: oselyuti
