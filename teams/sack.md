@@ -1,4 +1,4 @@
-# Team SACK
+# The SACK Squad
 
 ## Contributors 
 * Soofi Punjani 
