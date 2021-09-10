@@ -13,4 +13,4 @@ Nicholas Drake (ndrake1, ndrake127)
 Robert Griffith (robdgrif, robdgrif)
 
 ## Project Proposal
-Minimalist Schedule Calender
+Minimalist Schedule Calender/Generator
