@@ -25,7 +25,10 @@ ahickm18:
   github: bereket1197
   name: Alex Hickman
   netid: ahickm18
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 120
+    state: open
 ahillhou:
   github: ahillhou
   name: Andy Hillhouse
@@ -39,6 +42,11 @@ ahughe51:
     merged: false
     pr: 120
     state: open
+akrneta:
+  github: AlexanderKrneta
+  name: Alexander Krneta
+  netid: akrneta
+  team_pr: null
 aphan2:
   github: xmrtonyx125
   name: An Phan
@@ -106,7 +114,10 @@ bparke37:
   github: bparke37
   name: Bryce Parker
   netid: bparke37
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 153
+    state: open
 bschwar7:
   github: username
   name: Benjamin Schartz
@@ -116,7 +127,10 @@ cbrow216:
   github: CadeBrown
   name: Cade Brown
   netid: cbrow216
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 153
+    state: open
 ccondon:
   github: charliecondon
   name: Charlie Condon
@@ -191,7 +205,10 @@ dhuang14:
   github: dhuang0212
   name: David Huang
   netid: dhuang14
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 120
+    state: open
 dkenne15:
   github: dominicmkennedy
   name: Dominic Kennedy
@@ -256,7 +273,10 @@ gcroisda:
   github: gcrois
   name: Gregory Thomas Croisdale I
   netid: gcroisda
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 153
+    state: open
 gwebb13:
   github: grant-webb1
   name: Grant Webb
@@ -327,7 +347,10 @@ jnotowic:
   github: jnotowich
   name: Jake Notowich
   netid: jnotowic
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 138
+    state: open
 jpage21:
   github: jacobgpagee
   name: Jacob Page
@@ -459,7 +482,10 @@ mmathur:
   github: mmathur20
   name: Mahim Mathur
   netid: mmathur
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 151
+    state: open
 mwalte21:
   github: MatthewWalters1
   name: Matthew Walters
