@@ -1,3 +1,3 @@
-Name is Caitlin Iadonisi
+name: Caitlin Iadonisi
 netid: ciadonis
 github: ciadonisi
