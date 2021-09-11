@@ -187,7 +187,10 @@ cwang93:
   github: mrchausgit
   name: Charles Wang
   netid: cwang93
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 158
+    state: open
 dbeaty:
   github: DBeatyPreston
   name: Dennis Preston Beaty
@@ -324,7 +327,10 @@ jananth2:
   github: janantha2
   name: Joshua Anantharaj
   netid: jananth2
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 158
+    state: open
 jarmiger:
   github: jacob-armiger
   name: Jacob Armiger
@@ -360,7 +366,10 @@ jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
   netid: jrodri33
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 jsun36:
   github: leoked
   name: Jiawei Sun
@@ -459,12 +468,18 @@ lwrinkle:
   github: LagoonyToons
   name: Logan Wrinkle
   netid: lwrinkle
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 156
+    state: open
 mdeleon1:
   github: mdeleon7
   name: Marco DeLeon
   netid: mdeleon1
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 mdenise:
   github: marydenise
   name: Mary Denise
@@ -550,7 +565,10 @@ otrejome:
   github: omarsitoe
   name: Omar Trejo-Medina
   netid: otrejome
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 156
+    state: open
 pattle:
   github: pattle-vols
   name: Paul Attle
@@ -593,7 +611,10 @@ robdgrif:
   github: robdgrif
   name: Robert Griffith
   netid: robdgrif
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 158
+    state: open
 rramire7:
   github: rramire7
   name: Richard Ramirez
@@ -674,7 +695,10 @@ sxue3:
   github: selxue
   name: Selena Xue
   netid: sxue3
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 156
+    state: open
 tainley:
   github: tristan-ainley
   name: Tristan Ainley
@@ -719,7 +743,10 @@ vaiely:
   github: VishalAiely
   name: Vishal Aiely
   netid: vaiely
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 156
+    state: open
 vbhupati:
   github: dearvarun
   name: Varun Bhupatiraju
@@ -737,7 +764,10 @@ vrb684:
   github: mward-23
   name: McKenzie Ward
   netid: vrb684
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 wjohns53:
   github: WillNJohnson
   name: William Johnson
@@ -767,7 +797,10 @@ zhamm:
   github: zhammgit
   name: Zachary Hamm
   netid: zhamm
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 133
+    state: open
 zlim2:
   github: zlim2
   name: Zi Win Lim
