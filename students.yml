@@ -2,7 +2,10 @@ abahour2:
   github: Abdurh-man
   name: Abdurhman Bahour
   netid: abahour2
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 152
+    state: open
 abhayani:
   github: M9909-AB
   name: Alishan Bhayani
@@ -53,9 +56,9 @@ aphan2:
   netid: aphan2
   team: Team_alpha
   team_pr:
-    merged: false
+    merged: true
     pr: 122
-    state: open
+    state: closed
 aroman:
   github: icedbee
   name: Anthony Roman
@@ -251,9 +254,9 @@ dwhite75:
   netid: dwhite75
   team: Team_alpha
   team_pr:
-    merged: false
+    merged: true
     pr: 122
-    state: open
+    state: closed
 eander68:
   github: e-vananderson
   name: Evan Anderson
@@ -671,9 +674,9 @@ sjohn248:
   netid: sjohn248
   team: Team_alpha
   team_pr:
-    merged: false
+    merged: true
     pr: 122
-    state: open
+    state: closed
 slaughl2:
   github: slaughl2
   name: Sean Laughlin
@@ -738,9 +741,9 @@ tkhan7:
   netid: tkhan7
   team: Team_alpha
   team_pr:
-    merged: false
+    merged: true
     pr: 122
-    state: open
+    state: closed
 tneuefei:
   github: Thomas-Neuefeind
   name: Thomas Neuefeind
