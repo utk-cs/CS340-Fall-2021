@@ -36,6 +36,25 @@ Team-v2-FINAL1:
       name: Reed Semmel
       netid: reehsemm
   name: Team-v2-FINAL1
+Team_alpha:
+  members:
+    aphan2:
+      github: xmrtonyx125
+      name: An Phan
+      netid: aphan2
+    dwhite75:
+      github: dwhite75
+      name: Darius White
+      netid: dwhite75
+    sjohn248:
+      github: sjohn248
+      name: Seth Johnson
+      netid: sjohn248
+    tkhan7:
+      github: taha59
+      name: Taha Naseem Khan
+      netid: tkhan7
+  name: Team_alpha
 burritobrigade:
   members:
     aroman:

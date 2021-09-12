@@ -51,6 +51,7 @@ aphan2:
   github: xmrtonyx125
   name: An Phan
   netid: aphan2
+  team: Team_alpha
   team_pr:
     merged: false
     pr: 122
@@ -248,6 +249,7 @@ dwhite75:
   github: dwhite75
   name: Darius White
   netid: dwhite75
+  team: Team_alpha
   team_pr:
     merged: false
     pr: 122
@@ -667,6 +669,7 @@ sjohn248:
   github: sjohn248
   name: Seth Johnson
   netid: sjohn248
+  team: Team_alpha
   team_pr:
     merged: false
     pr: 122
@@ -733,6 +736,7 @@ tkhan7:
   github: taha59
   name: Taha Naseem Khan
   netid: tkhan7
+  team: Team_alpha
   team_pr:
     merged: false
     pr: 122
