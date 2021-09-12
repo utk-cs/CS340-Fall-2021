@@ -13,3 +13,6 @@ username: taha59
 Full name: Darius White
 netID: dwhite75
 username: dwhite75
+
+Project Selection or Proposal
+We would like to do the weather app
