@@ -88,6 +88,11 @@ batkhamj:
   name: Brandon Atkhamjonov
   netid: batkhamj
   team_pr: null
+bdallstr:
+  github: Bdallstr
+  name: Brock Dallstream
+  netid: bdallstr
+  team_pr: null
 bgullet1:
   github: BGull00
   name: Bryson Gullett
@@ -154,6 +159,14 @@ cellio28:
     merged: true
     pr: 140
     state: closed
+ciadonis:
+  github: ciadonisi
+  name: Caitlin Iadonisi
+  netid: ciadonis
+  team_pr:
+    merged: false
+    pr: 138
+    state: open
 cjohn260:
   github: colepjohn
   name: Cole Johnston
@@ -235,7 +248,10 @@ dwhite75:
   github: dwhite75
   name: Darius White
   netid: dwhite75
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 122
+    state: open
 eander68:
   github: e-vananderson
   name: Evan Anderson
