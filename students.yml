@@ -49,7 +49,10 @@ akrneta:
   github: AlexanderKrneta
   name: Alexander Krneta
   netid: akrneta
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 158
+    state: open
 aphan2:
   github: xmrtonyx125
   name: An Phan
@@ -96,7 +99,10 @@ bdallstr:
   github: Bdallstr
   name: Brock Dallstream
   netid: bdallstr
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 160
+    state: open
 bgullet1:
   github: BGull00
   name: Bryson Gullett
@@ -220,7 +226,10 @@ dbyrd15:
   github: EmeraldHarbor
   name: David Byrd
   netid: dbyrd15
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 160
+    state: open
 dhuang14:
   github: dhuang0212
   name: David Huang
