@@ -163,6 +163,10 @@ team-622-infero:
   name: team-622-infero
 team_coconuts:
   members:
+    csmit402:
+      github: kerble
+      name: Colby Smith
+      netid: csmit402
     lwrinkle:
       github: LagoonyToons
       name: Logan Wrinkle

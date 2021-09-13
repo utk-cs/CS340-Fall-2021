@@ -367,6 +367,7 @@ csmit402:
     merged: true
     pr: 163
     state: closed
+  team: team_coconuts
   team_pr:
     merged: true
     pr: 156
