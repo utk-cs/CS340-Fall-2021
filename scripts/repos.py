@@ -2,20 +2,21 @@
 import os
 from dotenv import load_dotenv
 from pathlib import Path
+from datetime import timedelta, datetime
+from dateutil.parser import parse as dt_parse
+
 import roboyml
 import github.GithubException
 from github import Github
-
-load_dotenv()
-
-teamfile = Path("teams.yml")
-studentfile = Path("students.yml")
-repofile = Path("repos.yml")
+from settings import *
 
 gh = Github(os.environ.get("GITHUB_TOKEN"))
 
 utkcs = gh.get_organization("utk-cs")
 ta_team = utkcs.get_team_by_slug("tas")
+
+for k, dt in iterations_due.items():
+    print(f"Iteration {k} due at {dt}")
 
 with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams:
     for teamname, team in teams.items():
@@ -58,5 +59,25 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams:
 
         ta_team.update_team_repository(gh_repo, "admin")
         gh_team.update_team_repository(gh_repo, "maintain")
+
+        gh_milestones = list(gh_repo.get_milestones())
+
+        for i, dt in iterations_due.items():
+            gh_milestone_name = f"Iteration {i}"
+            for m in gh_milestones:
+                if m.title == gh_milestone_name:
+                    iteration_milestone = m
+                    break
+            else:
+                iteration_milestone = gh_repo.create_milestone(
+                    gh_milestone_name,
+                )
+            # GH doesn't store hours, only date
+            if (not iteration_milestone.due_on) or iteration_milestone.due_on.date() != dt.date():
+                print(f"team {teamname} iteration {i} changing due date to {dt} from {iteration_milestone.due_on} ...")
+                iteration_milestone.edit(
+                    gh_milestone_name,
+                    due_on=dt,
+                )
 
     print(f"{len(teams)} teams processed")

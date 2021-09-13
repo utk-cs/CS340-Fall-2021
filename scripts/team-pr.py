@@ -5,12 +5,7 @@ from pathlib import Path
 import roboyml
 import github.GithubException
 from github import Github
-
-load_dotenv()
-
-teamfile = Path("teams.yml")
-studentfile = Path("students.yml")
-repofile = Path("repos.yml")
+from settings import *
 
 gh = Github(os.environ.get("GITHUB_TOKEN"))
 
