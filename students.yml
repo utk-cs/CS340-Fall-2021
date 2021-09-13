@@ -139,7 +139,10 @@ awalsh15:
     merged: true
     pr: 39
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 164
+    state: open
 awelden2:
   github: awelden0
   membership: accepted
@@ -544,7 +547,10 @@ gwebb13:
     merged: true
     pr: 134
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 160
+    state: open
 hlam4:
   github: hanson-lam
   membership: accepted
@@ -817,7 +823,10 @@ lgangula:
     merged: true
     pr: 58
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 164
+    state: open
 ljakstas:
   github: ljakstas
   membership: accepted
@@ -1042,7 +1051,10 @@ oselyuti:
     merged: true
     pr: 62
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 164
+    state: open
 otrejome:
   github: omarsitoe
   membership: accepted
@@ -1168,7 +1180,10 @@ rschenck:
     merged: true
     pr: 66
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 160
+    state: open
 sblank11:
   github: SKBlank
   membership: invited
