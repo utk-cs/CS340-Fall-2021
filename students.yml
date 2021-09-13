@@ -735,6 +735,7 @@ jpage21:
     merged: true
     pr: 128
     state: closed
+  team: teamlit
   team_pr:
     merged: false
     pr: 148
@@ -923,6 +924,7 @@ lsharpe8:
     merged: true
     pr: 89
     state: closed
+  team: teamlit
   team_pr:
     merged: false
     pr: 148
@@ -1005,6 +1007,7 @@ mwalte21:
     merged: true
     pr: 91
     state: closed
+  team: teamlit
   team_pr:
     merged: false
     pr: 148
@@ -1482,6 +1485,7 @@ vhanset:
     merged: true
     pr: 72
     state: closed
+  team: teamlit
   team_pr:
     merged: false
     pr: 148

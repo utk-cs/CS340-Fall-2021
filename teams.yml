@@ -230,6 +230,25 @@ team_coconuts:
       name: Vishal Aiely
       netid: vaiely
   name: team_coconuts
+teamlit:
+  members:
+    jpage21:
+      github: jacobgpagee
+      name: Jacob Page
+      netid: jpage21
+    lsharpe8:
+      github: lsharpe8
+      name: Lillian Sharpe
+      netid: lsharpe8
+    mwalte21:
+      github: MatthewWalters1
+      name: Matthew Walters
+      netid: mwalte21
+    vhanset:
+      github: vhanset
+      name: Victor Hanset
+      netid: vhanset
+  name: teamlit
 tem:
   members:
     aesser:
