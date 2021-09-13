@@ -9,3 +9,5 @@ Jake Notowich
 Caitlin Iadonisi
   netID: ciadonis
   GitHub Username: ciadonisi
+
+We would like to design a sportsbook/daily fantasy sports project. 
