@@ -877,10 +877,11 @@ lwrinkle:
     merged: true
     pr: 6
     state: closed
+  team: team_coconuts
   team_pr:
-    merged: false
+    merged: true
     pr: 156
-    state: open
+    state: closed
 mdeleon1:
   github: mdeleon7
   membership: accepted
@@ -1051,10 +1052,11 @@ otrejome:
     merged: true
     pr: 82
     state: closed
+  team: team_coconuts
   team_pr:
-    merged: false
+    merged: true
     pr: 156
-    state: open
+    state: closed
 pattle:
   github: pattle-vols
   membership: accepted
@@ -1286,10 +1288,11 @@ sxue3:
     merged: true
     pr: 48
     state: closed
+  team: team_coconuts
   team_pr:
-    merged: false
+    merged: true
     pr: 156
-    state: open
+    state: closed
 tainley:
   github: tristan-ainley
   membership: accepted
@@ -1365,10 +1368,11 @@ vaiely:
     merged: true
     pr: 44
     state: closed
+  team: team_coconuts
   team_pr:
-    merged: false
+    merged: true
     pr: 156
-    state: open
+    state: closed
 vbhupati:
   github: dearvarun
   membership: accepted

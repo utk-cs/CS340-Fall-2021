@@ -157,6 +157,25 @@ team-622-infero:
       name: Parker Collier
       netid: pcollie4
   name: team-622-infero
+team_coconuts:
+  members:
+    lwrinkle:
+      github: LagoonyToons
+      name: Logan Wrinkle
+      netid: lwrinkle
+    otrejome:
+      github: omarsitoe
+      name: Omar Trejo-Medina
+      netid: otrejome
+    sxue3:
+      github: selxue
+      name: Selena Xue
+      netid: sxue3
+    vaiely:
+      github: VishalAiely
+      name: Vishal Aiely
+      netid: vaiely
+  name: team_coconuts
 tem:
   members:
     aesser:
