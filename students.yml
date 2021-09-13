@@ -406,7 +406,10 @@ jpage21:
   github: jacobgpagee
   name: Jacob Page
   netid: jpage21
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 148
+    state: open
 jrodri33:
   github: joshoua
   name: Joshoua Rodriguez
