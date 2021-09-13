@@ -877,7 +877,10 @@ lsharpe8:
     merged: true
     pr: 89
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 148
+    state: open
 lwrinkle:
   github: LagoonyToons
   membership: accepted
@@ -1411,7 +1414,10 @@ vhanset:
     merged: true
     pr: 72
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 148
+    state: open
 vrb684:
   github: mward-23
   membership: accepted
