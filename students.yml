@@ -227,11 +227,18 @@ bparke37:
     pr: 153
     state: open
 bschwar7:
-  github: username
+  github: Benjamin-Schwartz
+  membership: accepted
   name: Benjamin Schartz
   netid: bschwar7
-  student_pr: null
-  team_pr: null
+  student_pr:
+    merged: true
+    pr: 21
+    state: closed
+  team_pr:
+    merged: false
+    pr: 104
+    state: open
 cbrow216:
   github: CadeBrown
   membership: accepted
@@ -889,10 +896,7 @@ mdenise:
     merged: true
     pr: 97
     state: closed
-  team_pr:
-    merged: false
-    pr: 161
-    state: open
+  team_pr: null
 mhughe36:
   github: mhughe36
   membership: accepted
@@ -1057,11 +1061,9 @@ pbowlin1:
     pr: 64
     state: closed
   team_pr:
-    merged: Cannot merge, invalid team PR
-    pr:
-    - 161
-    - 106
-    state: DUPLICATE
+    merged: false
+    pr: 106
+    state: open
 pcollie4:
   github: ParkerNC
   membership: accepted
@@ -1173,7 +1175,7 @@ sdahms:
     state: closed
   team_pr:
     merged: false
-    pr: 161
+    pr: 106
     state: open
 sjohn248:
   github: sjohn248
@@ -1190,12 +1192,19 @@ sjohn248:
     pr: 122
     state: closed
 slaughl2:
-  github: slaughl2
+  github: Slaughl2
+  membership: accepted
   name: Sean Laughlin
   netid: slaughl2
-  student_pr: null
+  student_pr:
+    merged: true
+    pr: 29
+    state: closed
   team: tem
-  team_pr: null
+  team_pr:
+    merged: true
+    pr: 135
+    state: closed
 spate118:
   github: spate118
   membership: accepted
@@ -1234,7 +1243,7 @@ ssuresh6:
     state: closed
   team_pr:
     merged: false
-    pr: 161
+    pr: 106
     state: open
 sthomp89:
   github: Thalomir
