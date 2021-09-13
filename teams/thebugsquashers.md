@@ -3,16 +3,16 @@
 ## Contributors
 * Parker Bowling 
   * netid: pbowlin1
-  * Github :bowlingparker
+  * Github username: bowlingparker
 * Suhil Suresh
   * netid: ssuresh6
-  * Github: suhilsuresh
+  * Github username: suhilsuresh
 * Mary Denise 
   * netid: mdenise
-  * Github: Marydenise
+  * Github username: Marydenise
 * Sam Dahms 
   * netid: sdahms
-  * Github: sdahms
+  * Github username: sdahms
 
 ## Project Seletion
 Most likely the weather app
