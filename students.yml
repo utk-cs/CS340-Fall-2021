@@ -367,7 +367,10 @@ csmit402:
     merged: true
     pr: 163
     state: closed
-  team_pr: null
+  team_pr:
+    merged: true
+    pr: 156
+    state: closed
 cwang93:
   github: mrchausgit
   membership: accepted
