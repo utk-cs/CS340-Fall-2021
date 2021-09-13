@@ -5,7 +5,7 @@
     * netid: spunjani 
     * Github username: soofinator
 * Abdurhman Bahour 
-    * netid: Abahour2 
+    * netid: abahour2 
     * Github username: Abdurh-man
 * William Connor Parham
     * netid: wparham1
