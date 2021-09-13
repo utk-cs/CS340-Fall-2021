@@ -1,15 +1,25 @@
 abahour2:
   github: Abdurh-man
+  membership: accepted
   name: Abdurhman Bahour
   netid: abahour2
+  student_pr:
+    merged: true
+    pr: 147
+    state: closed
   team_pr:
     merged: false
     pr: 152
     state: open
 abhayani:
   github: M9909-AB
+  membership: accepted
   name: Alishan Bhayani
   netid: abhayani
+  student_pr:
+    merged: true
+    pr: 37
+    state: closed
   team: Team-v2-FINAL1
   team_pr:
     merged: true
@@ -17,8 +27,13 @@ abhayani:
     state: closed
 aesser:
   github: aeasy370
+  membership: accepted
   name: Alexander Esser
   netid: aesser
+  student_pr:
+    merged: true
+    pr: 20
+    state: closed
   team: tem
   team_pr:
     merged: true
@@ -26,37 +41,62 @@ aesser:
     state: closed
 ahickm18:
   github: bereket1197
+  membership: accepted
   name: Alex Hickman
   netid: ahickm18
+  student_pr:
+    merged: true
+    pr: 131
+    state: closed
   team_pr:
     merged: false
     pr: 120
     state: open
 ahillhou:
   github: ahillhou
+  membership: accepted
   name: Andy Hillhouse
   netid: ahillhou
+  student_pr:
+    merged: true
+    pr: 149
+    state: closed
   team_pr: null
 ahughe51:
   github: FueledByPants
+  membership: accepted
   name: Allen Hughes
   netid: ahughe51
+  student_pr:
+    merged: true
+    pr: 81
+    state: closed
   team_pr:
     merged: false
     pr: 120
     state: open
 akrneta:
   github: AlexanderKrneta
+  membership: invited
   name: Alexander Krneta
   netid: akrneta
+  student_pr:
+    merged: true
+    pr: 154
+    state: closed
   team_pr:
     merged: false
     pr: 158
     state: open
 aphan2:
   github: xmrtonyx125
+  membership: accepted
   name: An Phan
   netid: aphan2
+  student_pr:
+    merged: true
+    pr: 40
+    state: closed
   team: Team_alpha
   team_pr:
     merged: true
@@ -64,8 +104,13 @@ aphan2:
     state: closed
 aroman:
   github: icedbee
+  membership: accepted
   name: Anthony Roman
   netid: aroman
+  student_pr:
+    merged: true
+    pr: 113
+    state: closed
   team: burritobrigade
   team_pr:
     merged: true
@@ -73,8 +118,13 @@ aroman:
     state: closed
 arutter1:
   github: solsane
+  membership: accepted
   name: Aiden Rutter
   netid: arutter1
+  student_pr:
+    merged: true
+    pr: 1
+    state: closed
   team: taem
   team_pr:
     merged: true
@@ -82,39 +132,69 @@ arutter1:
     state: closed
 awalsh15:
   github: AndersonWalsh
+  membership: accepted
   name: Anderson Walsh
   netid: awalsh15
+  student_pr:
+    merged: true
+    pr: 39
+    state: closed
   team_pr: null
 awelden2:
   github: awelden0
+  membership: accepted
   name: Andrew Welden
   netid: awelden2
+  student_pr:
+    merged: true
+    pr: 14
+    state: closed
   team_pr:
     merged: false
     pr: 162
     state: open
 batkhamj:
   github: batkhamj
+  membership: accepted
   name: Brandon Atkhamjonov
   netid: batkhamj
+  student_pr:
+    merged: true
+    pr: 96
+    state: closed
   team_pr: null
 bdallstr:
   github: Bdallstr
+  membership: accepted
   name: Brock Dallstream
   netid: bdallstr
+  student_pr:
+    merged: true
+    pr: 157
+    state: closed
   team_pr:
     merged: false
     pr: 160
     state: open
 bgullet1:
   github: BGull00
+  membership: accepted
   name: Bryson Gullett
   netid: bgullet1
+  student_pr:
+    merged: true
+    pr: 36
+    state: closed
   team_pr: null
 bklein3:
   github: robobenklein
+  membership: accepted
   name: Ben Klein
   netid: bklein3
+  student_pr:
+    merged: true
+    pr: 54
+    state: closed
   team: taem
   team_pr:
     merged: true
@@ -122,16 +202,26 @@ bklein3:
     state: closed
 bmclaug6:
   github: bradymclaugh
+  membership: accepted
   name: Brady McLaughlin
   netid: bmclaug6
+  student_pr:
+    merged: true
+    pr: 112
+    state: closed
   team_pr:
     merged: false
     pr: 143
     state: open
 bparke37:
   github: bparke37
+  membership: accepted
   name: Bryce Parker
   netid: bparke37
+  student_pr:
+    merged: true
+    pr: 102
+    state: closed
   team_pr:
     merged: false
     pr: 153
@@ -140,24 +230,40 @@ bschwar7:
   github: username
   name: Benjamin Schartz
   netid: bschwar7
+  student_pr: null
   team_pr: null
 cbrow216:
   github: CadeBrown
+  membership: accepted
   name: Cade Brown
   netid: cbrow216
+  student_pr:
+    merged: true
+    pr: 50
+    state: closed
   team_pr:
     merged: false
     pr: 153
     state: open
 ccondon:
   github: charliecondon
+  membership: accepted
   name: Charlie Condon
   netid: ccondon
+  student_pr:
+    merged: true
+    pr: 70
+    state: closed
   team_pr: null
 cdegawa:
   github: 1480c1
+  membership: accepted
   name: Christopher Degawa
   netid: cdegawa
+  student_pr:
+    merged: true
+    pr: 5
+    state: closed
   team: Team-v2-FINAL1
   team_pr:
     merged: true
@@ -165,8 +271,13 @@ cdegawa:
     state: closed
 cellio28:
   github: colevelliott2000
+  membership: accepted
   name: Cole Elliott
   netid: cellio28
+  student_pr:
+    merged: true
+    pr: 59
+    state: closed
   team: burritobrigade
   team_pr:
     merged: true
@@ -174,85 +285,140 @@ cellio28:
     state: closed
 ciadonis:
   github: ciadonisi
+  membership: accepted
   name: Caitlin Iadonisi
   netid: ciadonis
+  student_pr:
+    merged: true
+    pr: 145
+    state: closed
   team_pr:
     merged: false
     pr: 138
     state: open
 cjohn260:
   github: colepjohn
+  membership: accepted
   name: Cole Johnston
   netid: cjohn260
+  student_pr:
+    merged: true
+    pr: 42
+    state: closed
   team_pr:
     merged: false
     pr: 123
     state: open
 clee95:
   github: cjlee95
+  membership: accepted
   name: Christopher Lee
   netid: clee95
+  student_pr:
+    merged: true
+    pr: 74
+    state: closed
   team_pr:
     merged: false
     pr: 124
     state: open
 cmoore99:
   github: Crestor123
+  membership: accepted
   name: Chris Moore
   netid: cmoore99
+  student_pr:
+    merged: true
+    pr: 61
+    state: closed
   team_pr: null
 crinks:
   github: CarolineRinks
+  membership: accepted
   name: Caroline Rinks
   netid: crinks
+  student_pr:
+    merged: true
+    pr: 75
+    state: closed
   team_pr:
     merged: false
     pr: 123
     state: open
 cwang93:
   github: mrchausgit
+  membership: accepted
   name: Charles Wang
   netid: cwang93
+  student_pr:
+    merged: true
+    pr: 116
+    state: closed
   team_pr:
     merged: false
     pr: 158
     state: open
 dbeaty:
   github: DBeatyPreston
+  membership: accepted
   name: Dennis Preston Beaty
   netid: dbeaty
+  student_pr:
+    merged: true
+    pr: 47
+    state: closed
   team_pr:
     merged: false
     pr: 123
     state: open
 dbyrd15:
   github: EmeraldHarbor
+  membership: accepted
   name: David Byrd
   netid: dbyrd15
+  student_pr:
+    merged: true
+    pr: 127
+    state: closed
   team_pr:
     merged: false
     pr: 160
     state: open
 dhuang14:
   github: dhuang0212
+  membership: accepted
   name: David Huang
   netid: dhuang14
+  student_pr:
+    merged: true
+    pr: 27
+    state: closed
   team_pr:
     merged: false
     pr: 120
     state: open
 dkenne15:
   github: dominicmkennedy
+  membership: accepted
   name: Dominic Kennedy
   netid: dkenne15
+  student_pr:
+    merged: true
+    pr: 57
+    state: closed
   team_pr:
     merged: false
     pr: 162
     state: open
 dlee97:
   github: dlee865
+  membership: accepted
   name: Dylan Lee
   netid: dlee97
+  student_pr:
+    merged: true
+    pr: 3
+    state: closed
   team: taem
   team_pr:
     merged: true
@@ -260,13 +426,23 @@ dlee97:
     state: closed
 dmunsey4:
   github: Dev5ter
+  membership: invited
   name: Devin Munsey
   netid: dmunsey4
+  student_pr:
+    merged: true
+    pr: 60
+    state: closed
   team_pr: null
 dwhite75:
   github: dwhite75
+  membership: accepted
   name: Darius White
   netid: dwhite75
+  student_pr:
+    merged: true
+    pr: 146
+    state: closed
   team: Team_alpha
   team_pr:
     merged: true
@@ -274,16 +450,26 @@ dwhite75:
     state: closed
 eander68:
   github: e-vananderson
+  membership: accepted
   name: Evan Anderson
   netid: eander68
+  student_pr:
+    merged: true
+    pr: 13
+    state: closed
   team_pr:
     merged: false
     pr: 143
     state: open
 elidberb:
   github: elidberb
+  membership: accepted
   name: Elijah Berberette
   netid: elidberb
+  student_pr:
+    merged: true
+    pr: 63
+    state: closed
   team: dragon
   team_pr:
     merged: true
@@ -291,21 +477,36 @@ elidberb:
     state: closed
 fprawira:
   github: LouLoog
+  membership: accepted
   name: Fazrian Prawiranata
   netid: fprawira
+  student_pr:
+    merged: true
+    pr: 101
+    state: closed
   team_pr: null
 fxie6:
   github: Franklin-Xie
+  membership: accepted
   name: Franklin Xie
   netid: fxie6
+  student_pr:
+    merged: true
+    pr: 31
+    state: closed
   team_pr:
     merged: false
     pr: 164
     state: open
 gbrown39:
   github: gregbro2
+  membership: accepted
   name: Gregory Brown
   netid: gbrown39
+  student_pr:
+    merged: true
+    pr: 19
+    state: closed
   team: tem
   team_pr:
     merged: true
@@ -313,53 +514,88 @@ gbrown39:
     state: closed
 gcroisda:
   github: gcrois
+  membership: accepted
   name: Gregory Thomas Croisdale I
   netid: gcroisda
+  student_pr:
+    merged: true
+    pr: 15
+    state: closed
   team_pr:
     merged: false
     pr: 153
     state: open
 gwebb13:
   github: grant-webb1
+  membership: accepted
   name: Grant Webb
   netid: gwebb13
+  student_pr:
+    merged: true
+    pr: 134
+    state: closed
   team_pr: null
 hlam4:
   github: hanson-lam
+  membership: accepted
   name: Hanson Lam
   netid: hlam4
+  student_pr:
+    merged: true
+    pr: 67
+    state: closed
   team_pr:
     merged: false
     pr: 110
     state: open
 imacdoug:
   github: IanMacDougall
+  membership: accepted
   name: Ian MacDougall
   netid: imacdoug
+  student_pr:
+    merged: true
+    pr: 30
+    state: closed
   team_pr:
     merged: false
     pr: 110
     state: open
 ipelton:
   github: bepri
+  membership: accepted
   name: Imani Pelton
   netid: ipelton
+  student_pr:
+    merged: true
+    pr: 9
+    state: closed
   team_pr:
     merged: false
     pr: 143
     state: open
 jallbrit:
   github: jallbrit
+  membership: accepted
   name: John Allbritten
   netid: jallbrit
+  student_pr:
+    merged: true
+    pr: 33
+    state: closed
   team_pr:
     merged: false
     pr: 162
     state: open
 jamin:
   github: Jamin11
+  membership: accepted
   name: Jay Amin
   netid: jamin
+  student_pr:
+    merged: true
+    pr: 26
+    state: closed
   team: tem
   team_pr:
     merged: true
@@ -367,85 +603,140 @@ jamin:
     state: closed
 jananth2:
   github: janantha2
+  membership: accepted
   name: Joshua Anantharaj
   netid: jananth2
+  student_pr:
+    merged: true
+    pr: 53
+    state: closed
   team_pr:
     merged: false
     pr: 158
     state: open
 jarmiger:
   github: jacob-armiger
+  membership: accepted
   name: Jacob Armiger
   netid: jarmiger
+  student_pr:
+    merged: true
+    pr: 46
+    state: closed
   team_pr:
     merged: false
     pr: 162
     state: open
 jbradf19:
   github: jAllieB
+  membership: accepted
   name: Juliet Allison Bradford
   netid: jbradf19
+  student_pr:
+    merged: true
+    pr: 65
+    state: closed
   team_pr: null
 jim5:
   github: troy51538
+  membership: accepted
   name: Joonyoung Im
   netid: jim5
+  student_pr:
+    merged: true
+    pr: 86
+    state: closed
   team_pr:
     merged: false
     pr: 124
     state: open
 jnotowic:
   github: jnotowich
+  membership: accepted
   name: Jake Notowich
   netid: jnotowic
+  student_pr:
+    merged: true
+    pr: 43
+    state: closed
   team_pr:
     merged: false
     pr: 138
     state: open
 jpage21:
   github: jacobgpagee
+  membership: accepted
   name: Jacob Page
   netid: jpage21
+  student_pr:
+    merged: true
+    pr: 128
+    state: closed
   team_pr:
     merged: false
     pr: 148
     state: open
 jrodri33:
   github: joshoua
+  membership: accepted
   name: Joshoua Rodriguez
   netid: jrodri33
+  student_pr:
+    merged: true
+    pr: 90
+    state: closed
   team_pr:
     merged: false
     pr: 133
     state: open
 jsun36:
   github: leoked
+  membership: accepted
   name: Jiawei Sun
   netid: jsun36
+  student_pr:
+    merged: true
+    pr: 35
+    state: closed
   team_pr:
     merged: false
     pr: 164
     state: open
 jwrig117:
   github: joshuakwright
+  membership: accepted
   name: Joshua Wright
   netid: jwrig117
+  student_pr:
+    merged: true
+    pr: 87
+    state: closed
   team_pr:
     merged: false
     pr: 123
     state: open
 kcraddoc:
   github: kcraddoc
+  membership: accepted
   name: Kevin Craddock
   netid: kcraddoc
+  student_pr:
+    merged: true
+    pr: 130
+    state: closed
   team_pr:
     merged: false
     pr: 152
     state: open
 kleland:
   github: kellenrl
+  membership: accepted
   name: Kellen Leland
   netid: kleland
+  student_pr:
+    merged: true
+    pr: 77
+    state: closed
   team: TMWRK
   team_pr:
     merged: true
@@ -453,16 +744,26 @@ kleland:
     state: closed
 kmaclin1:
   github: Kmac0103
+  membership: accepted
   name: Kameron Maclin
   netid: kmaclin1
+  student_pr:
+    merged: true
+    pr: 28
+    state: closed
   team_pr:
     merged: false
     pr: 104
     state: open
 kpatel68:
   github: kpatel68
+  membership: accepted
   name: Karan Patel
   netid: kpatel68
+  student_pr:
+    merged: true
+    pr: 98
+    state: closed
   team: dragon
   team_pr:
     merged: true
@@ -470,82 +771,137 @@ kpatel68:
     state: closed
 kwooda13:
   github: kwooda13
+  membership: accepted
   name: Kenneth Woodard
   netid: kwooda13
+  student_pr:
+    merged: true
+    pr: 109
+    state: closed
   team_pr:
     merged: false
     pr: 138
     state: open
 kyumhan:
   github: kyumhan
+  membership: accepted
   name: Kyung Min Han
   netid: kyumhan
+  student_pr:
+    merged: true
+    pr: 80
+    state: closed
   team_pr:
     merged: false
     pr: 124
     state: open
 lgangula:
   github: LohithGangula
+  membership: accepted
   name: Lohith Gangula
   netid: lgangula
+  student_pr:
+    merged: true
+    pr: 58
+    state: closed
   team_pr: null
 ljakstas:
   github: ljakstas
+  membership: accepted
   name: Lukas Jakstas
   netid: ljakstas
+  student_pr:
+    merged: true
+    pr: 8
+    state: closed
   team_pr:
     merged: false
     pr: 162
     state: open
 lmccombs:
   github: lukepmccombs
+  membership: accepted
   name: Luke McCombs
   netid: lmccombs
+  student_pr:
+    merged: true
+    pr: 17
+    state: closed
   team_pr:
     merged: false
     pr: 104
     state: open
 lprocto3:
   github: lproctor10242
+  membership: accepted
   name: Lauren Proctor
   netid: lprocto3
+  student_pr:
+    merged: true
+    pr: 45
+    state: closed
   team_pr:
     merged: false
     pr: 110
     state: open
 lsharpe8:
   github: lsharpe8
+  membership: accepted
   name: Lillian Sharpe
   netid: lsharpe8
+  student_pr:
+    merged: true
+    pr: 89
+    state: closed
   team_pr: null
 lwrinkle:
   github: LagoonyToons
+  membership: accepted
   name: Logan Wrinkle
   netid: lwrinkle
+  student_pr:
+    merged: true
+    pr: 6
+    state: closed
   team_pr:
     merged: false
     pr: 156
     state: open
 mdeleon1:
   github: mdeleon7
+  membership: accepted
   name: Marco DeLeon
   netid: mdeleon1
+  student_pr:
+    merged: true
+    pr: 85
+    state: closed
   team_pr:
     merged: false
     pr: 133
     state: open
 mdenise:
   github: marydenise
+  membership: invited
   name: Mary Denise
   netid: mdenise
+  student_pr:
+    merged: true
+    pr: 97
+    state: closed
   team_pr:
     merged: false
     pr: 161
     state: open
 mhughe36:
   github: mhughe36
+  membership: accepted
   name: Michael Hughes
   netid: mhughe36
+  student_pr:
+    merged: true
+    pr: 93
+    state: closed
   team: burritobrigade
   team_pr:
     merged: true
@@ -553,8 +909,13 @@ mhughe36:
     state: closed
 mmathur:
   github: mmathur20
+  membership: accepted
   name: Mahim Mathur
   netid: mmathur
+  student_pr:
+    merged: true
+    pr: 94
+    state: closed
   team: TMWRK
   team_pr:
     merged: true
@@ -562,16 +923,26 @@ mmathur:
     state: closed
 mwalte21:
   github: MatthewWalters1
+  membership: accepted
   name: Matthew Walters
   netid: mwalte21
+  student_pr:
+    merged: true
+    pr: 91
+    state: closed
   team_pr:
     merged: false
     pr: 148
     state: open
 mwyatt14:
   github: s-viour
+  membership: accepted
   name: Matt Wyatt
   netid: mwyatt14
+  student_pr:
+    merged: true
+    pr: 52
+    state: closed
   team: burritobrigade
   team_pr:
     merged: true
@@ -579,62 +950,112 @@ mwyatt14:
     state: closed
 mxw557:
   github: jrduell
+  membership: invited
   name: Jacob Duell
   netid: mxw557
+  student_pr:
+    merged: true
+    pr: 150
+    state: closed
   team_pr: null
 ndrake1:
   github: ndrake127
+  membership: invited
   name: Nickolas Drake
   netid: ndrake1
+  student_pr:
+    merged: true
+    pr: 49
+    state: closed
   team_pr: null
 nmorri11:
   github: Notatoe
+  membership: accepted
   name: Noah Mattson Morris
   netid: nmorri11
+  student_pr:
+    merged: true
+    pr: 144
+    state: closed
   team_pr: null
 npatel79:
   github: napatel79
+  membership: accepted
   name: Neh Patel
   netid: npatel79
+  student_pr:
+    merged: true
+    pr: 10
+    state: closed
   team_pr:
     merged: false
     pr: 124
     state: open
 ntayefeh:
   github: NimsTay
+  membership: accepted
   name: Nima Tayefeh
   netid: ntayefeh
+  student_pr:
+    merged: true
+    pr: 95
+    state: closed
   team_pr:
     merged: false
     pr: 124
     state: open
 nyy212:
   github: wiihop69
+  membership: invited
   name: Will Hopkirk
   netid: nyy212
+  student_pr:
+    merged: true
+    pr: 34
+    state: closed
   team_pr: null
 oselyuti:
   github: oselyuti
+  membership: accepted
   name: Alex Selyutin
   netid: oselyuti
+  student_pr:
+    merged: true
+    pr: 62
+    state: closed
   team_pr: null
 otrejome:
   github: omarsitoe
+  membership: accepted
   name: Omar Trejo-Medina
   netid: otrejome
+  student_pr:
+    merged: true
+    pr: 82
+    state: closed
   team_pr:
     merged: false
     pr: 156
     state: open
 pattle:
   github: pattle-vols
+  membership: accepted
   name: Paul Attle
   netid: pattle
+  student_pr:
+    merged: true
+    pr: 71
+    state: closed
   team_pr: null
 pbowlin1:
   github: bowlingparker
+  membership: accepted
   name: Parker Bowling
   netid: pbowlin1
+  student_pr:
+    merged: true
+    pr: 64
+    state: closed
   team_pr:
     merged: Cannot merge, invalid team PR
     pr:
@@ -643,24 +1064,39 @@ pbowlin1:
     state: DUPLICATE
 pcollie4:
   github: ParkerNC
+  membership: accepted
   name: Parker Collier
   netid: pcollie4
+  student_pr:
+    merged: true
+    pr: 76
+    state: closed
   team_pr:
     merged: false
     pr: 110
     state: open
 pvelas:
   github: IDoNotExist3
+  membership: accepted
   name: Paul Velas
   netid: pvelas
+  student_pr:
+    merged: true
+    pr: 23
+    state: closed
   team_pr:
     merged: false
     pr: 120
     state: open
 reehsemm:
   github: reedsemmel
+  membership: accepted
   name: Reed Semmel
   netid: reehsemm
+  student_pr:
+    merged: true
+    pr: 4
+    state: closed
   team: Team-v2-FINAL1
   team_pr:
     merged: true
@@ -668,21 +1104,36 @@ reehsemm:
     state: closed
 robdgrif:
   github: robdgrif
+  membership: invited
   name: Robert Griffith
   netid: robdgrif
+  student_pr:
+    merged: true
+    pr: 139
+    state: closed
   team_pr:
     merged: false
     pr: 158
     state: open
 rramire7:
   github: rramire7
+  membership: accepted
   name: Richard Ramirez
   netid: rramire7
+  student_pr:
+    merged: true
+    pr: 84
+    state: closed
   team_pr: null
 rschaff1:
   github: RobertUTK
+  membership: accepted
   name: Robert Schaffer
   netid: rschaff1
+  student_pr:
+    merged: true
+    pr: 79
+    state: closed
   team: TMWRK
   team_pr:
     merged: true
@@ -690,29 +1141,49 @@ rschaff1:
     state: closed
 rschenck:
   github: RCSIII
+  membership: accepted
   name: Robert Schenck
   netid: rschenck
+  student_pr:
+    merged: true
+    pr: 66
+    state: closed
   team_pr: null
 sblank11:
   github: SKBlank
+  membership: invited
   name: Susan Blankenship
   netid: sblank11
+  student_pr:
+    merged: true
+    pr: 126
+    state: closed
   team_pr:
     merged: false
     pr: 143
     state: open
 sdahms:
   github: sdahms
+  membership: accepted
   name: Sam Dahms
   netid: sdahms
+  student_pr:
+    merged: true
+    pr: 132
+    state: closed
   team_pr:
     merged: false
     pr: 161
     state: open
 sjohn248:
   github: sjohn248
+  membership: accepted
   name: Seth Johnson
   netid: sjohn248
+  student_pr:
+    merged: true
+    pr: 115
+    state: closed
   team: Team_alpha
   team_pr:
     merged: true
@@ -722,12 +1193,18 @@ slaughl2:
   github: slaughl2
   name: Sean Laughlin
   netid: slaughl2
+  student_pr: null
   team: tem
   team_pr: null
 spate118:
   github: spate118
+  membership: accepted
   name: Saahil Patel
   netid: spate118
+  student_pr:
+    merged: true
+    pr: 16
+    state: closed
   team: tem
   team_pr:
     merged: true
@@ -735,45 +1212,75 @@ spate118:
     state: closed
 spunjani:
   github: soofinator
+  membership: accepted
   name: Soofi Punjani
   netid: spunjani
+  student_pr:
+    merged: true
+    pr: 68
+    state: closed
   team_pr:
     merged: false
     pr: 152
     state: open
 ssuresh6:
   github: suhilsuresh
+  membership: accepted
   name: Suhil Suresh
   netid: ssuresh6
+  student_pr:
+    merged: true
+    pr: 119
+    state: closed
   team_pr:
     merged: false
     pr: 161
     state: open
 sthomp89:
   github: Thalomir
+  membership: invited
   name: Samuel Thompson
   netid: sthomp89
+  student_pr:
+    merged: true
+    pr: 25
+    state: closed
   team_pr:
     merged: false
     pr: 104
     state: open
 sxue3:
   github: selxue
+  membership: accepted
   name: Selena Xue
   netid: sxue3
+  student_pr:
+    merged: true
+    pr: 48
+    state: closed
   team_pr:
     merged: false
     pr: 156
     state: open
 tainley:
   github: tristan-ainley
+  membership: accepted
   name: Tristan Ainley
   netid: tainley
+  student_pr:
+    merged: true
+    pr: 38
+    state: closed
   team_pr: null
 tfowler6:
   github: tfowler6
+  membership: accepted
   name: Tanner Joseph Fowler
   netid: tfowler6
+  student_pr:
+    merged: true
+    pr: 92
+    state: closed
   team: dragon
   team_pr:
     merged: true
@@ -781,8 +1288,13 @@ tfowler6:
     state: closed
 tkhan7:
   github: taha59
+  membership: accepted
   name: Taha Naseem Khan
   netid: tkhan7
+  student_pr:
+    merged: true
+    pr: 129
+    state: closed
   team: Team_alpha
   team_pr:
     merged: true
@@ -790,8 +1302,13 @@ tkhan7:
     state: closed
 tneuefei:
   github: Thomas-Neuefeind
+  membership: accepted
   name: Thomas Neuefeind
   netid: tneuefei
+  student_pr:
+    merged: true
+    pr: 99
+    state: closed
   team: TMWRK
   team_pr:
     merged: true
@@ -799,8 +1316,13 @@ tneuefei:
     state: closed
 tplayer:
   github: tlplayer
+  membership: accepted
   name: Timothy Player
   netid: tplayer
+  student_pr:
+    merged: true
+    pr: 12
+    state: closed
   team: dragon
   team_pr:
     merged: true
@@ -808,37 +1330,62 @@ tplayer:
     state: closed
 vaiely:
   github: VishalAiely
+  membership: accepted
   name: Vishal Aiely
   netid: vaiely
+  student_pr:
+    merged: true
+    pr: 44
+    state: closed
   team_pr:
     merged: false
     pr: 156
     state: open
 vbhupati:
   github: dearvarun
+  membership: accepted
   name: Varun Bhupatiraju
   netid: vbhupati
+  student_pr:
+    merged: true
+    pr: 51
+    state: closed
   team_pr:
     merged: false
     pr: 120
     state: open
 vhanset:
   github: vhanset
+  membership: accepted
   name: Victor Hanset
   netid: vhanset
+  student_pr:
+    merged: true
+    pr: 72
+    state: closed
   team_pr: null
 vrb684:
   github: mward-23
+  membership: accepted
   name: McKenzie Ward
   netid: vrb684
+  student_pr:
+    merged: true
+    pr: 73
+    state: closed
   team_pr:
     merged: false
     pr: 133
     state: open
 wjohns53:
   github: WillNJohnson
+  membership: accepted
   name: William Johnson
   netid: wjohns53
+  student_pr:
+    merged: true
+    pr: 7
+    state: closed
   team: TMWRK
   team_pr:
     merged: true
@@ -846,30 +1393,50 @@ wjohns53:
     state: closed
 wparham1:
   github: wcparham1
+  membership: accepted
   name: William Connor Parham
   netid: wparham1
+  student_pr:
+    merged: true
+    pr: 88
+    state: closed
   team_pr:
     merged: false
     pr: 152
     state: open
 yahmad1:
   github: yahmad1-vols
+  membership: accepted
   name: Yamin Ahmad
   netid: yahmad1
+  student_pr:
+    merged: true
+    pr: 24
+    state: closed
   team_pr:
     merged: false
     pr: 104
     state: open
 zhamm:
   github: zhammgit
+  membership: accepted
   name: Zachary Hamm
   netid: zhamm
+  student_pr:
+    merged: true
+    pr: 55
+    state: closed
   team_pr:
     merged: false
     pr: 133
     state: open
 zlim2:
   github: zlim2
+  membership: accepted
   name: Zi Win Lim
   netid: zlim2
+  student_pr:
+    merged: true
+    pr: 114
+    state: closed
   team_pr: null
