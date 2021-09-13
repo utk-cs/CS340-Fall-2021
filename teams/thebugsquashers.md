@@ -1,15 +1,19 @@
-Team The Bug Squashers
-Team Members:
-  Parker Bowling 
-    NetID  - pbowlin1
-    GitHub - bowlingparker
-  Suhil Suresh
-    NetID  - ssuresh6
-    GitHub - suhilsuresh
-  Mary Denise 
-    NetID  - mdenise
-    GitHub - Marydenise
-  Sam Dahms 
-    NetID - sdahms
-    GitHub: sdahms
+# The Bug Squashers
+
+## Contributors
+* Parker Bowling 
+  * netid: pbowlin1
+  * Github :bowlingparker
+* Suhil Suresh
+  * netid: ssuresh6
+  * Github: suhilsuresh
+* Mary Denise 
+  * netid: mdenise
+  * Github: Marydenise
+* Sam Dahms 
+  * netid: sdahms
+  * Github: sdahms
+
+## Project Seletion
+Most likely the weather app
 
