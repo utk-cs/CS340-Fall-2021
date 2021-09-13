@@ -358,6 +358,16 @@ crinks:
     merged: false
     pr: 123
     state: open
+csmit402:
+  github: kerble
+  membership: accepted
+  name: Colby Smith
+  netid: csmit402
+  student_pr:
+    merged: true
+    pr: 163
+    state: closed
+  team_pr: null
 cwang93:
   github: mrchausgit
   membership: accepted
