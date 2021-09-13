@@ -1,3 +1,26 @@
+Myteam5:
+  members:
+    clee95:
+      github: cjlee95
+      name: Christopher Lee
+      netid: clee95
+    jim5:
+      github: troy51538
+      name: Joonyoung Im
+      netid: jim5
+    kyumhan:
+      github: kyumhan
+      name: Kyung Min Han
+      netid: kyumhan
+    npatel79:
+      github: napatel79
+      name: Neh Patel
+      netid: npatel79
+    ntayefeh:
+      github: NimsTay
+      name: Nima Tayefeh
+      netid: ntayefeh
+  name: Myteam5
 TMWRK:
   members:
     kleland:
@@ -93,6 +116,29 @@ dragon:
       name: Timothy Player
       netid: tplayer
   name: dragon
+notveryqt:
+  members:
+    awelden2:
+      github: awelden0
+      name: Andrew Welden
+      netid: awelden2
+    dkenne15:
+      github: dominicmkennedy
+      name: Dominic Kennedy
+      netid: dkenne15
+    jallbrit:
+      github: jallbrit
+      name: John Allbritten
+      netid: jallbrit
+    jarmiger:
+      github: jacob-armiger
+      name: Jacob Armiger
+      netid: jarmiger
+    ljakstas:
+      github: ljakstas
+      name: Lukas Jakstas
+      netid: ljakstas
+  name: notveryqt
 relevant_:
   members:
     bparke37:
@@ -226,3 +272,26 @@ thebugsquashers:
       name: Suhil Suresh
       netid: ssuresh6
   name: thebugsquashers
+tmpName:
+  members:
+    ahickm18:
+      github: bereket1197
+      name: Alex Hickman
+      netid: ahickm18
+    ahughe51:
+      github: FueledByPants
+      name: Allen Hughes
+      netid: ahughe51
+    dhuang14:
+      github: dhuang0212
+      name: David Huang
+      netid: dhuang14
+    pvelas:
+      github: IDoNotExist3
+      name: Paul Velas
+      netid: pvelas
+    vbhupati:
+      github: dearvarun
+      name: Varun Bhupatiraju
+      netid: vbhupati
+  name: tmpName

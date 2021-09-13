@@ -49,6 +49,7 @@ ahickm18:
     merged: true
     pr: 131
     state: closed
+  team: tmpName
   team_pr:
     merged: false
     pr: 120
@@ -75,6 +76,7 @@ ahughe51:
     merged: true
     pr: 81
     state: closed
+  team: tmpName
   team_pr:
     merged: false
     pr: 120
@@ -156,6 +158,7 @@ awelden2:
     merged: true
     pr: 14
     state: closed
+  team: notveryqt
   team_pr:
     merged: false
     pr: 162
@@ -343,6 +346,7 @@ clee95:
     merged: true
     pr: 74
     state: closed
+  team: Myteam5
   team_pr:
     merged: false
     pr: 124
@@ -435,6 +439,7 @@ dhuang14:
     merged: true
     pr: 27
     state: closed
+  team: tmpName
   team_pr:
     merged: false
     pr: 120
@@ -448,6 +453,7 @@ dkenne15:
     merged: true
     pr: 57
     state: closed
+  team: notveryqt
   team_pr:
     merged: false
     pr: 162
@@ -634,6 +640,7 @@ jallbrit:
     merged: true
     pr: 33
     state: closed
+  team: notveryqt
   team_pr:
     merged: false
     pr: 162
@@ -674,6 +681,7 @@ jarmiger:
     merged: true
     pr: 46
     state: closed
+  team: notveryqt
   team_pr:
     merged: false
     pr: 162
@@ -700,6 +708,7 @@ jim5:
     merged: true
     pr: 86
     state: closed
+  team: Myteam5
   team_pr:
     merged: false
     pr: 124
@@ -846,6 +855,7 @@ kyumhan:
     merged: true
     pr: 80
     state: closed
+  team: Myteam5
   team_pr:
     merged: false
     pr: 124
@@ -872,6 +882,7 @@ ljakstas:
     merged: true
     pr: 8
     state: closed
+  team: notveryqt
   team_pr:
     merged: false
     pr: 162
@@ -1060,6 +1071,7 @@ npatel79:
     merged: true
     pr: 10
     state: closed
+  team: Myteam5
   team_pr:
     merged: false
     pr: 124
@@ -1073,6 +1085,7 @@ ntayefeh:
     merged: true
     pr: 95
     state: closed
+  team: Myteam5
   team_pr:
     merged: false
     pr: 124
@@ -1164,6 +1177,7 @@ pvelas:
     merged: true
     pr: 23
     state: closed
+  team: tmpName
   team_pr:
     merged: false
     pr: 120
@@ -1451,6 +1465,7 @@ vbhupati:
     merged: true
     pr: 51
     state: closed
+  team: tmpName
   team_pr:
     merged: false
     pr: 120
