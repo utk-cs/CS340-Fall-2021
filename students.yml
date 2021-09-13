@@ -51,9 +51,9 @@ ahickm18:
     state: closed
   team: tmpName
   team_pr:
-    merged: false
+    merged: true
     pr: 120
-    state: open
+    state: closed
 ahillhou:
   github: ahillhou
   membership: accepted
@@ -78,9 +78,9 @@ ahughe51:
     state: closed
   team: tmpName
   team_pr:
-    merged: false
+    merged: true
     pr: 120
-    state: open
+    state: closed
 akrneta:
   github: AlexanderKrneta
   membership: accepted
@@ -160,9 +160,9 @@ awelden2:
     state: closed
   team: notveryqt
   team_pr:
-    merged: false
+    merged: true
     pr: 162
-    state: open
+    state: closed
 batkhamj:
   github: batkhamj
   membership: accepted
@@ -348,9 +348,9 @@ clee95:
     state: closed
   team: Myteam5
   team_pr:
-    merged: false
+    merged: true
     pr: 124
-    state: open
+    state: closed
 cmoore99:
   github: Crestor123
   membership: accepted
@@ -441,9 +441,9 @@ dhuang14:
     state: closed
   team: tmpName
   team_pr:
-    merged: false
+    merged: true
     pr: 120
-    state: open
+    state: closed
 dkenne15:
   github: dominicmkennedy
   membership: accepted
@@ -455,9 +455,9 @@ dkenne15:
     state: closed
   team: notveryqt
   team_pr:
-    merged: false
+    merged: true
     pr: 162
-    state: open
+    state: closed
 dlee97:
   github: dlee865
   membership: accepted
@@ -642,9 +642,9 @@ jallbrit:
     state: closed
   team: notveryqt
   team_pr:
-    merged: false
+    merged: true
     pr: 162
-    state: open
+    state: closed
 jamin:
   github: Jamin11
   membership: accepted
@@ -683,9 +683,9 @@ jarmiger:
     state: closed
   team: notveryqt
   team_pr:
-    merged: false
+    merged: true
     pr: 162
-    state: open
+    state: closed
 jbradf19:
   github: jAllieB
   membership: accepted
@@ -710,9 +710,9 @@ jim5:
     state: closed
   team: Myteam5
   team_pr:
-    merged: false
+    merged: true
     pr: 124
-    state: open
+    state: closed
 jnotowic:
   github: jnotowich
   membership: accepted
@@ -857,9 +857,9 @@ kyumhan:
     state: closed
   team: Myteam5
   team_pr:
-    merged: false
+    merged: true
     pr: 124
-    state: open
+    state: closed
 lgangula:
   github: LohithGangula
   membership: accepted
@@ -884,9 +884,9 @@ ljakstas:
     state: closed
   team: notveryqt
   team_pr:
-    merged: false
+    merged: true
     pr: 162
-    state: open
+    state: closed
 lmccombs:
   github: lukepmccombs
   membership: accepted
@@ -1073,9 +1073,9 @@ npatel79:
     state: closed
   team: Myteam5
   team_pr:
-    merged: false
+    merged: true
     pr: 124
-    state: open
+    state: closed
 ntayefeh:
   github: NimsTay
   membership: accepted
@@ -1087,9 +1087,9 @@ ntayefeh:
     state: closed
   team: Myteam5
   team_pr:
-    merged: false
+    merged: true
     pr: 124
-    state: open
+    state: closed
 nyy212:
   github: wiihop69
   membership: invited
@@ -1099,7 +1099,10 @@ nyy212:
     merged: true
     pr: 34
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 168
+    state: open
 oselyuti:
   github: oselyuti
   membership: accepted
@@ -1179,9 +1182,9 @@ pvelas:
     state: closed
   team: tmpName
   team_pr:
-    merged: false
+    merged: true
     pr: 120
-    state: open
+    state: closed
 reehsemm:
   github: reedsemmel
   membership: accepted
@@ -1467,9 +1470,9 @@ vbhupati:
     state: closed
   team: tmpName
   team_pr:
-    merged: false
+    merged: true
     pr: 120
-    state: open
+    state: closed
 vhanset:
   github: vhanset
   membership: accepted
