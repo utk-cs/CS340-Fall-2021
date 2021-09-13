@@ -62,7 +62,10 @@ ahillhou:
     merged: true
     pr: 149
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 166
+    state: open
 ahughe51:
   github: FueledByPants
   membership: accepted
@@ -166,7 +169,10 @@ batkhamj:
     merged: true
     pr: 96
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 167
+    state: open
 bdallstr:
   github: Bdallstr
   membership: accepted
@@ -189,7 +195,10 @@ bgullet1:
     merged: true
     pr: 36
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 166
+    state: open
 bklein3:
   github: robobenklein
   membership: accepted
@@ -267,7 +276,10 @@ ccondon:
     merged: true
     pr: 70
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 168
+    state: open
 cdegawa:
   github: 1480c1
   membership: accepted
@@ -344,7 +356,10 @@ cmoore99:
     merged: true
     pr: 61
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 167
+    state: open
 crinks:
   github: CarolineRinks
   membership: accepted
@@ -511,7 +526,10 @@ fprawira:
     merged: true
     pr: 101
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 168
+    state: open
 fxie6:
   github: Franklin-Xie
   membership: accepted
@@ -669,7 +687,10 @@ jbradf19:
     merged: true
     pr: 65
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 166
+    state: open
 jim5:
   github: troy51538
   membership: accepted
@@ -1000,7 +1021,10 @@ mxw557:
     merged: true
     pr: 150
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 167
+    state: open
 ndrake1:
   github: ndrake127
   membership: accepted
@@ -1023,7 +1047,10 @@ nmorri11:
     merged: true
     pr: 144
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 167
+    state: open
 npatel79:
   github: napatel79
   membership: accepted
@@ -1096,7 +1123,10 @@ pattle:
     merged: true
     pr: 71
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 167
+    state: open
 pbowlin1:
   github: bowlingparker
   membership: accepted
@@ -1174,7 +1204,10 @@ rramire7:
     merged: true
     pr: 84
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 168
+    state: open
 rschaff1:
   github: RobertUTK
   membership: accepted
@@ -1335,7 +1368,10 @@ tainley:
     merged: true
     pr: 38
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 166
+    state: open
 tfowler6:
   github: tfowler6
   membership: accepted
@@ -1508,4 +1544,7 @@ zlim2:
     merged: true
     pr: 114
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 168
+    state: open
