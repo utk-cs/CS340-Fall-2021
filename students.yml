@@ -223,9 +223,9 @@ bparke37:
     pr: 102
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 153
-    state: open
+    state: closed
 bschwar7:
   github: Benjamin-Schwartz
   membership: accepted
@@ -249,9 +249,9 @@ cbrow216:
     pr: 50
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 153
-    state: open
+    state: closed
 ccondon:
   github: charliecondon
   membership: accepted
@@ -529,9 +529,9 @@ gcroisda:
     pr: 15
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 153
-    state: open
+    state: closed
 gwebb13:
   github: grant-webb1
   membership: accepted
@@ -552,9 +552,9 @@ hlam4:
     pr: 67
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 110
-    state: open
+    state: closed
 imacdoug:
   github: IanMacDougall
   membership: accepted
@@ -565,9 +565,9 @@ imacdoug:
     pr: 30
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 110
-    state: open
+    state: closed
 ipelton:
   github: bepri
   membership: accepted
@@ -848,9 +848,9 @@ lprocto3:
     pr: 45
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 110
-    state: open
+    state: closed
 lsharpe8:
   github: lsharpe8
   membership: accepted
@@ -889,14 +889,17 @@ mdeleon1:
     state: open
 mdenise:
   github: marydenise
-  membership: invited
+  membership: accepted
   name: Mary Denise
   netid: mdenise
   student_pr:
     merged: true
     pr: 97
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 106
+    state: open
 mhughe36:
   github: mhughe36
   membership: accepted
@@ -1074,9 +1077,9 @@ pcollie4:
     pr: 76
     state: closed
   team_pr:
-    merged: false
+    merged: true
     pr: 110
-    state: open
+    state: closed
 pvelas:
   github: IDoNotExist3
   membership: accepted
