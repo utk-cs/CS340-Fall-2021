@@ -89,7 +89,10 @@ awelden2:
   github: awelden0
   name: Andrew Welden
   netid: awelden2
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 162
+    state: open
 batkhamj:
   github: batkhamj
   name: Brandon Atkhamjonov
@@ -242,7 +245,10 @@ dkenne15:
   github: dominicmkennedy
   name: Dominic Kennedy
   netid: dkenne15
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 162
+    state: open
 dlee97:
   github: dlee865
   name: Dylan Lee
@@ -292,7 +298,10 @@ fxie6:
   github: Franklin-Xie
   name: Franklin Xie
   netid: fxie6
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 164
+    state: open
 gbrown39:
   github: gregbro2
   name: Gregory Brown
@@ -343,7 +352,10 @@ jallbrit:
   github: jallbrit
   name: John Allbritten
   netid: jallbrit
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 162
+    state: open
 jamin:
   github: Jamin11
   name: Jay Amin
@@ -365,7 +377,10 @@ jarmiger:
   github: jacob-armiger
   name: Jacob Armiger
   netid: jarmiger
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 162
+    state: open
 jbradf19:
   github: jAllieB
   name: Juliet Allison Bradford
@@ -404,7 +419,10 @@ jsun36:
   github: leoked
   name: Jiawei Sun
   netid: jsun36
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 164
+    state: open
 jwrig117:
   github: joshuakwright
   name: Joshua Wright
@@ -472,7 +490,10 @@ ljakstas:
   github: ljakstas
   name: Lukas Jakstas
   netid: ljakstas
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 162
+    state: open
 lmccombs:
   github: lukepmccombs
   name: Luke McCombs
@@ -514,7 +535,10 @@ mdenise:
   github: marydenise
   name: Mary Denise
   netid: mdenise
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 161
+    state: open
 mhughe36:
   github: mhughe36
   name: Michael Hughes
@@ -609,9 +633,11 @@ pbowlin1:
   name: Parker Bowling
   netid: pbowlin1
   team_pr:
-    merged: false
-    pr: 106
-    state: open
+    merged: Cannot merge, invalid team PR
+    pr:
+    - 161
+    - 106
+    state: DUPLICATE
 pcollie4:
   github: ParkerNC
   name: Parker Collier
@@ -676,7 +702,10 @@ sdahms:
   github: sdahms
   name: Sam Dahms
   netid: sdahms
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 161
+    state: open
 sjohn248:
   github: sjohn248
   name: Seth Johnson
@@ -713,7 +742,10 @@ ssuresh6:
   github: suhilsuresh
   name: Suhil Suresh
   netid: ssuresh6
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 161
+    state: open
 sthomp89:
   github: Thalomir
   name: Samuel Thompson
