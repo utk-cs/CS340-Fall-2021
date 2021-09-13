@@ -110,6 +110,10 @@ relevant_:
   name: relevant_
 sack:
   members:
+    abahour2:
+      github: Abdurh-man
+      name: Abdurhman Bahour
+      netid: abahour2
     kcraddoc:
       github: kcraddoc
       name: Kevin Craddock

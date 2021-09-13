@@ -7,6 +7,7 @@ abahour2:
     merged: true
     pr: 147
     state: closed
+  team: sack
   team_pr:
     merged: true
     pr: 152
