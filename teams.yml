@@ -108,6 +108,21 @@ relevant_:
       name: Gregory Thomas Croisdale I
       netid: gcroisda
   name: relevant_
+sack:
+  members:
+    kcraddoc:
+      github: kcraddoc
+      name: Kevin Craddock
+      netid: kcraddoc
+    spunjani:
+      github: soofinator
+      name: Soofi Punjani
+      netid: spunjani
+    wparham1:
+      github: wcparham1
+      name: William Connor Parham
+      netid: wparham1
+  name: sack
 taem:
   members:
     arutter1:
@@ -165,3 +180,22 @@ tem:
       name: Saahil Patel
       netid: spate118
   name: tem
+thebugsquashers:
+  members:
+    mdenise:
+      github: marydenise
+      name: Mary Denise
+      netid: mdenise
+    pbowlin1:
+      github: bowlingparker
+      name: Parker Bowling
+      netid: pbowlin1
+    sdahms:
+      github: sdahms
+      name: Sam Dahms
+      netid: sdahms
+    ssuresh6:
+      github: suhilsuresh
+      name: Suhil Suresh
+      netid: ssuresh6
+  name: thebugsquashers

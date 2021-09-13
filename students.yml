@@ -736,6 +736,7 @@ kcraddoc:
     merged: true
     pr: 130
     state: closed
+  team: sack
   team_pr:
     merged: true
     pr: 152
@@ -902,6 +903,7 @@ mdenise:
     merged: true
     pr: 97
     state: closed
+  team: thebugsquashers
   team_pr:
     merged: true
     pr: 106
@@ -1072,6 +1074,7 @@ pbowlin1:
     merged: true
     pr: 64
     state: closed
+  team: thebugsquashers
   team_pr:
     merged: true
     pr: 106
@@ -1186,6 +1189,7 @@ sdahms:
     merged: true
     pr: 132
     state: closed
+  team: thebugsquashers
   team_pr:
     merged: true
     pr: 106
@@ -1241,6 +1245,7 @@ spunjani:
     merged: true
     pr: 68
     state: closed
+  team: sack
   team_pr:
     merged: true
     pr: 152
@@ -1254,6 +1259,7 @@ ssuresh6:
     merged: true
     pr: 119
     state: closed
+  team: thebugsquashers
   team_pr:
     merged: true
     pr: 106
@@ -1422,6 +1428,7 @@ wparham1:
     merged: true
     pr: 88
     state: closed
+  team: sack
   team_pr:
     merged: true
     pr: 152
