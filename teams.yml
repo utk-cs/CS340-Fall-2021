@@ -93,6 +93,21 @@ dragon:
       name: Timothy Player
       netid: tplayer
   name: dragon
+relevant_:
+  members:
+    bparke37:
+      github: bparke37
+      name: Bryce Parker
+      netid: bparke37
+    cbrow216:
+      github: CadeBrown
+      name: Cade Brown
+      netid: cbrow216
+    gcroisda:
+      github: gcrois
+      name: Gregory Thomas Croisdale I
+      netid: gcroisda
+  name: relevant_
 taem:
   members:
     arutter1:
@@ -108,6 +123,25 @@ taem:
       name: Dylan Lee
       netid: dlee97
   name: taem
+team-622-infero:
+  members:
+    hlam4:
+      github: hanson-lam
+      name: Hanson Lam
+      netid: hlam4
+    imacdoug:
+      github: IanMacDougall
+      name: Ian MacDougall
+      netid: imacdoug
+    lprocto3:
+      github: lproctor10242
+      name: Lauren Proctor
+      netid: lprocto3
+    pcollie4:
+      github: ParkerNC
+      name: Parker Collier
+      netid: pcollie4
+  name: team-622-infero
 tem:
   members:
     aesser:
@@ -123,7 +157,7 @@ tem:
       name: Jay Amin
       netid: jamin
     slaughl2:
-      github: slaughl2
+      github: Slaughl2
       name: Sean Laughlin
       netid: slaughl2
     spate118:

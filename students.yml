@@ -222,6 +222,7 @@ bparke37:
     merged: true
     pr: 102
     state: closed
+  team: relevant_
   team_pr:
     merged: true
     pr: 153
@@ -248,6 +249,7 @@ cbrow216:
     merged: true
     pr: 50
     state: closed
+  team: relevant_
   team_pr:
     merged: true
     pr: 153
@@ -528,6 +530,7 @@ gcroisda:
     merged: true
     pr: 15
     state: closed
+  team: relevant_
   team_pr:
     merged: true
     pr: 153
@@ -551,6 +554,7 @@ hlam4:
     merged: true
     pr: 67
     state: closed
+  team: team-622-infero
   team_pr:
     merged: true
     pr: 110
@@ -564,6 +568,7 @@ imacdoug:
     merged: true
     pr: 30
     state: closed
+  team: team-622-infero
   team_pr:
     merged: true
     pr: 110
@@ -847,6 +852,7 @@ lprocto3:
     merged: true
     pr: 45
     state: closed
+  team: team-622-infero
   team_pr:
     merged: true
     pr: 110
@@ -1076,6 +1082,7 @@ pcollie4:
     merged: true
     pr: 76
     state: closed
+  team: team-622-infero
   team_pr:
     merged: true
     pr: 110
