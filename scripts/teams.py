@@ -18,7 +18,8 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams:
         teams[teamname]["members"] = {}
 
         for netid in students.keys():
-            if netid in teamdata:
+            _r = re.compile(r'\b%s\b' % netid, re.I)
+            if _r.search(teamdata):
                 teams[teamname]["members"][netid] = {
                     "netid": students[netid]["netid"],
                     "github": students[netid]["github"],
