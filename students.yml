@@ -737,9 +737,9 @@ jpage21:
     state: closed
   team: teamlit
   team_pr:
-    merged: false
+    merged: true
     pr: 148
-    state: open
+    state: closed
 jrodri33:
   github: joshoua
   membership: accepted
@@ -926,9 +926,9 @@ lsharpe8:
     state: closed
   team: teamlit
   team_pr:
-    merged: false
+    merged: true
     pr: 148
-    state: open
+    state: closed
 lwrinkle:
   github: LagoonyToons
   membership: accepted
@@ -1009,9 +1009,9 @@ mwalte21:
     state: closed
   team: teamlit
   team_pr:
-    merged: false
+    merged: true
     pr: 148
-    state: open
+    state: closed
 mwyatt14:
   github: s-viour
   membership: accepted
@@ -1487,9 +1487,9 @@ vhanset:
     state: closed
   team: teamlit
   team_pr:
-    merged: false
+    merged: true
     pr: 148
-    state: open
+    state: closed
 vrb684:
   github: mward-23
   membership: accepted
