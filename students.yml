@@ -252,10 +252,11 @@ bschwar7:
     merged: true
     pr: 21
     state: closed
+  team: NobleToads
   team_pr:
-    merged: false
+    merged: true
     pr: 104
-    state: open
+    state: closed
 cbrow216:
   github: CadeBrown
   membership: accepted
@@ -333,10 +334,11 @@ cjohn260:
     merged: true
     pr: 42
     state: closed
+  team: team_001
   team_pr:
-    merged: false
+    merged: true
     pr: 123
-    state: open
+    state: closed
 clee95:
   github: cjlee95
   membership: accepted
@@ -373,10 +375,11 @@ crinks:
     merged: true
     pr: 75
     state: closed
+  team: team_001
   team_pr:
-    merged: false
+    merged: true
     pr: 123
-    state: open
+    state: closed
 csmit402:
   github: kerble
   membership: accepted
@@ -413,10 +416,11 @@ dbeaty:
     merged: true
     pr: 47
     state: closed
+  team: team_001
   team_pr:
-    merged: false
+    merged: true
     pr: 123
-    state: open
+    state: closed
 dbyrd15:
   github: EmeraldHarbor
   membership: accepted
@@ -481,7 +485,10 @@ dmunsey4:
     merged: true
     pr: 60
     state: closed
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 160
+    state: open
 dwhite75:
   github: dwhite75
   membership: accepted
@@ -749,10 +756,11 @@ jrodri33:
     merged: true
     pr: 90
     state: closed
+  team: Team-SUPER-AWESOME-MEGA-WOW
   team_pr:
-    merged: false
+    merged: true
     pr: 133
-    state: open
+    state: closed
 jsun36:
   github: leoked
   membership: accepted
@@ -775,10 +783,11 @@ jwrig117:
     merged: true
     pr: 87
     state: closed
+  team: team_001
   team_pr:
-    merged: false
+    merged: true
     pr: 123
-    state: open
+    state: closed
 kcraddoc:
   github: kcraddoc
   membership: accepted
@@ -816,10 +825,11 @@ kmaclin1:
     merged: true
     pr: 28
     state: closed
+  team: NobleToads
   team_pr:
-    merged: false
+    merged: true
     pr: 104
-    state: open
+    state: closed
 kpatel68:
   github: kpatel68
   membership: accepted
@@ -897,10 +907,11 @@ lmccombs:
     merged: true
     pr: 17
     state: closed
+  team: NobleToads
   team_pr:
-    merged: false
+    merged: true
     pr: 104
-    state: open
+    state: closed
 lprocto3:
   github: lproctor10242
   membership: accepted
@@ -952,10 +963,11 @@ mdeleon1:
     merged: true
     pr: 85
     state: closed
+  team: Team-SUPER-AWESOME-MEGA-WOW
   team_pr:
-    merged: false
+    merged: true
     pr: 133
-    state: open
+    state: closed
 mdenise:
   github: marydenise
   membership: accepted
@@ -1361,10 +1373,11 @@ sthomp89:
     merged: true
     pr: 25
     state: closed
+  team: NobleToads
   team_pr:
-    merged: false
+    merged: true
     pr: 104
-    state: open
+    state: closed
 sxue3:
   github: selxue
   membership: accepted
@@ -1499,10 +1512,11 @@ vrb684:
     merged: true
     pr: 73
     state: closed
+  team: Team-SUPER-AWESOME-MEGA-WOW
   team_pr:
-    merged: false
+    merged: true
     pr: 133
-    state: open
+    state: closed
 wjohns53:
   github: WillNJohnson
   membership: accepted
@@ -1540,10 +1554,11 @@ yahmad1:
     merged: true
     pr: 24
     state: closed
+  team: NobleToads
   team_pr:
-    merged: false
+    merged: true
     pr: 104
-    state: open
+    state: closed
 zhamm:
   github: zhammgit
   membership: accepted
@@ -1553,10 +1568,11 @@ zhamm:
     merged: true
     pr: 55
     state: closed
+  team: Team-SUPER-AWESOME-MEGA-WOW
   team_pr:
-    merged: false
+    merged: true
     pr: 133
-    state: open
+    state: closed
 zlim2:
   github: zlim2
   membership: accepted

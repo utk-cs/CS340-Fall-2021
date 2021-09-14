@@ -21,6 +21,33 @@ Myteam5:
       name: Nima Tayefeh
       netid: ntayefeh
   name: Myteam5
+NobleToads:
+  members:
+    bschwar7:
+      github: Benjamin-Schwartz
+      name: Benjamin Schartz
+      netid: bschwar7
+    jamin:
+      github: Jamin11
+      name: Jay Amin
+      netid: jamin
+    kmaclin1:
+      github: Kmac0103
+      name: Kameron Maclin
+      netid: kmaclin1
+    lmccombs:
+      github: lukepmccombs
+      name: Luke McCombs
+      netid: lmccombs
+    sthomp89:
+      github: Thalomir
+      name: Samuel Thompson
+      netid: sthomp89
+    yahmad1:
+      github: yahmad1-vols
+      name: Yamin Ahmad
+      netid: yahmad1
+  name: NobleToads
 TMWRK:
   members:
     kleland:
@@ -44,6 +71,25 @@ TMWRK:
       name: William Johnson
       netid: wjohns53
   name: TMWRK
+Team-SUPER-AWESOME-MEGA-WOW:
+  members:
+    jrodri33:
+      github: joshoua
+      name: Joshoua Rodriguez
+      netid: jrodri33
+    mdeleon1:
+      github: mdeleon7
+      name: Marco DeLeon
+      netid: mdeleon1
+    vrb684:
+      github: mward-23
+      name: McKenzie Ward
+      netid: vrb684
+    zhamm:
+      github: zhammgit
+      name: Zachary Hamm
+      netid: zhamm
+  name: Team-SUPER-AWESOME-MEGA-WOW
 Team-v2-FINAL1:
   members:
     abhayani:
@@ -207,6 +253,25 @@ team-622-infero:
       name: Parker Collier
       netid: pcollie4
   name: team-622-infero
+team_001:
+  members:
+    cjohn260:
+      github: colepjohn
+      name: Cole Johnston
+      netid: cjohn260
+    crinks:
+      github: CarolineRinks
+      name: Caroline Rinks
+      netid: crinks
+    dbeaty:
+      github: DBeatyPreston
+      name: Dennis Preston Beaty
+      netid: dbeaty
+    jwrig117:
+      github: joshuakwright
+      name: Joshua Wright
+      netid: jwrig117
+  name: team_001
 team_coconuts:
   members:
     csmit402:
