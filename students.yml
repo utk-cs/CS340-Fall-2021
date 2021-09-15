@@ -185,10 +185,11 @@ bdallstr:
     merged: true
     pr: 157
     state: closed
+  team: HappyLittleTrees
   team_pr:
-    merged: false
+    merged: true
     pr: 160
-    state: open
+    state: closed
 bgullet1:
   github: BGull00
   membership: accepted
@@ -430,10 +431,11 @@ dbyrd15:
     merged: true
     pr: 127
     state: closed
+  team: HappyLittleTrees
   team_pr:
-    merged: false
+    merged: true
     pr: 160
-    state: open
+    state: closed
 dhuang14:
   github: dhuang0212
   membership: accepted
@@ -485,10 +487,11 @@ dmunsey4:
     merged: true
     pr: 60
     state: closed
+  team: HappyLittleTrees
   team_pr:
-    merged: false
+    merged: true
     pr: 160
-    state: open
+    state: closed
 dwhite75:
   github: dwhite75
   membership: accepted
@@ -593,10 +596,11 @@ gwebb13:
     merged: true
     pr: 134
     state: closed
+  team: HappyLittleTrees
   team_pr:
-    merged: false
+    merged: true
     pr: 160
-    state: open
+    state: closed
 hlam4:
   github: hanson-lam
   membership: accepted
@@ -720,6 +724,11 @@ jim5:
     merged: true
     pr: 124
     state: closed
+jmuncy2:
+  github: jmuncy2
+  name: Jackson Muncy
+  netid: jmuncy2
+  team_pr: null
 jnotowic:
   github: jnotowich
   membership: accepted
@@ -1263,10 +1272,11 @@ rschenck:
     merged: true
     pr: 66
     state: closed
+  team: HappyLittleTrees
   team_pr:
-    merged: false
+    merged: true
     pr: 160
-    state: open
+    state: closed
 sblank11:
   github: SKBlank
   membership: invited
