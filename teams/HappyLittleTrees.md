@@ -13,6 +13,9 @@
  * Robert Schenck
     * netid: rschenck
     * github username: RCSIII
+ * Devin Munsey
+    * netid: dmunsey4
+    * github username: Dev5ter
 
 ## Project
 We plan on doing the note taking app
