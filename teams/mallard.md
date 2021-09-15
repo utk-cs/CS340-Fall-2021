@@ -9,7 +9,7 @@
                 * Github Username: charliecondon
         * Richard Ramirez
                 * netid: rramire7
-                * Github Username: ramire7
+                * Github Username: rramire7
         * Will Hopkirk
                 * netid: nyy212
                 * Github Username: wiihop69
