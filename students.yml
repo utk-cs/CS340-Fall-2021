@@ -281,10 +281,11 @@ ccondon:
     merged: true
     pr: 70
     state: closed
+  team: mallard
   team_pr:
-    merged: false
+    merged: true
     pr: 168
-    state: open
+    state: closed
 cdegawa:
   github: 1480c1
   membership: accepted
@@ -542,10 +543,11 @@ fprawira:
     merged: true
     pr: 101
     state: closed
+  team: mallard
   team_pr:
-    merged: false
+    merged: true
     pr: 168
-    state: open
+    state: closed
 fxie6:
   github: Franklin-Xie
   membership: accepted
@@ -1123,10 +1125,11 @@ nyy212:
     merged: true
     pr: 34
     state: closed
+  team: mallard
   team_pr:
-    merged: false
+    merged: true
     pr: 168
-    state: open
+    state: closed
 oselyuti:
   github: oselyuti
   membership: accepted
@@ -1245,10 +1248,11 @@ rramire7:
     merged: true
     pr: 84
     state: closed
+  team: mallard
   team_pr:
-    merged: false
+    merged: true
     pr: 168
-    state: open
+    state: closed
 rschaff1:
   github: RobertUTK
   membership: accepted
@@ -1592,7 +1596,8 @@ zlim2:
     merged: true
     pr: 114
     state: closed
+  team: mallard
   team_pr:
-    merged: false
+    merged: true
     pr: 168
-    state: open
+    state: closed

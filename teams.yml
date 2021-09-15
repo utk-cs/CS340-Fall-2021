@@ -181,6 +181,29 @@ dragon:
       name: Timothy Player
       netid: tplayer
   name: dragon
+mallard:
+  members:
+    ccondon:
+      github: charliecondon
+      name: Charlie Condon
+      netid: ccondon
+    fprawira:
+      github: LouLoog
+      name: Fazrian Prawiranata
+      netid: fprawira
+    nyy212:
+      github: wiihop69
+      name: Will Hopkirk
+      netid: nyy212
+    rramire7:
+      github: rramire7
+      name: Richard Ramirez
+      netid: rramire7
+    zlim2:
+      github: zlim2
+      name: Zi Win Lim
+      netid: zlim2
+  name: mallard
 notveryqt:
   members:
     awelden2:
