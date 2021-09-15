@@ -4,5 +4,9 @@
 	* Fazrian Prawiranata
 		* netid: fprawira
 		* Github Username: LouLoog
+        * Charlie Condon
+                * netid: ccondon
+                * Github Username: charliecondon
+
 ## Project Details/Proposals
-	* Nothing at the moment
+	* We would like to do the weather app.
