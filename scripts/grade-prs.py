@@ -36,6 +36,15 @@ def __main__():
             else:
                 graderow[assignment_student_pr] = gradebook.maxpoints[assignment_student_pr]
 
+            if graderow[assignment_team_pr]:
+                # ignore grades already set
+                continue
+            elif student['team_pr']['merged'] == True:
+                graderow[assignment_team_pr] = gradebook.maxpoints[assignment_team_pr]
+            else:
+                graderow[assignment_team_pr] = 0
+                print(f"{student['name']} / {student['netid']} / {student['github']} did not merge a team PR")
+
     # for r in gradebook.rows:
     #     print(f"{r[canvas_netid_col]}")
 

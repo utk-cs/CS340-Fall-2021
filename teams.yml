@@ -330,6 +330,29 @@ plumed:
       name: Tristan Ainley
       netid: tainley
   name: plumed
+prettypinkponies:
+  members:
+    akrneta:
+      github: AlexanderKrneta
+      name: Alexander Krneta
+      netid: akrneta
+    cwang93:
+      github: mrchausgit
+      name: Charles Wang
+      netid: cwang93
+    jananth2:
+      github: janantha2
+      name: Joshua Anantharaj
+      netid: jananth2
+    ndrake1:
+      github: ndrake127
+      name: Nickolas Drake
+      netid: ndrake1
+    robdgrif:
+      github: robdgrif
+      name: Robert Griffith
+      netid: robdgrif
+  name: prettypinkponies
 relevant_:
   members:
     bparke37:

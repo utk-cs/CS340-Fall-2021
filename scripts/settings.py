@@ -22,3 +22,4 @@ canvas_netid_col = "SIS Login ID"
 assignment_student_pr = "Individual PR (1061014)"
 assignment_student_pr_due = dt_parse("Thursday September 9th 23:59 2021 EST")
 assignment_team_pr = "Team PR (1061015)"
+assignment_team_pr = dt_parse("Thursday September 16th 23:59 2021 EST")

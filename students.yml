@@ -98,10 +98,11 @@ akrneta:
     merged_at: 2021-09-10 00:45:33
     pr: 154
     state: closed
+  team: prettypinkponies
   team_pr:
-    merged: false
+    merged: true
     pr: 175
-    state: open
+    state: closed
 aphan2:
   github: xmrtonyx125
   membership: accepted
@@ -442,10 +443,11 @@ cwang93:
     merged_at: 2021-09-09 02:30:49
     pr: 116
     state: closed
+  team: prettypinkponies
   team_pr:
-    merged: false
+    merged: true
     pr: 175
-    state: open
+    state: closed
 dbeaty:
   github: DBeatyPreston
   membership: accepted
@@ -741,10 +743,11 @@ jananth2:
     merged_at: 2021-09-09 02:26:40
     pr: 53
     state: closed
+  team: prettypinkponies
   team_pr:
-    merged: false
+    merged: true
     pr: 175
-    state: open
+    state: closed
 jarmiger:
   github: jacob-armiger
   membership: accepted
@@ -1175,10 +1178,11 @@ ndrake1:
     merged_at: 2021-09-07 22:26:53
     pr: 49
     state: closed
+  team: prettypinkponies
   team_pr:
-    merged: false
+    merged: true
     pr: 175
-    state: open
+    state: closed
 nmorri11:
   github: Notatoe
   membership: accepted
@@ -1354,10 +1358,11 @@ robdgrif:
     merged_at: 2021-09-09 19:14:43
     pr: 139
     state: closed
+  team: prettypinkponies
   team_pr:
-    merged: false
+    merged: true
     pr: 175
-    state: open
+    state: closed
 rramire7:
   github: rramire7
   membership: accepted
