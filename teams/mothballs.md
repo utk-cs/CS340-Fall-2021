@@ -10,4 +10,5 @@ Caitlin Iadonisi
   netID: ciadonis
   GitHub Username: ciadonisi
 
-We would like to design a sportsbook/daily fantasy sports project. 
+We would like to propose the weather application for our project.
+ 
