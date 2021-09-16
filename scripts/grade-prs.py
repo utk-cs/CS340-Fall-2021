@@ -29,7 +29,7 @@ def __main__():
 
             if graderow[assignment_student_pr]:
                 # ignore grades already set
-                continue
+                pass
             elif pytz.utc.localize(student['student_pr']['merged_at']) > assignment_student_pr_due:
                 print(f"{student['name']} / {student['netid']} / {student['github']} has late personal PR")
                 graderow[assignment_student_pr] = 0
@@ -38,7 +38,7 @@ def __main__():
 
             if graderow[assignment_team_pr]:
                 # ignore grades already set
-                continue
+                pass
             elif student['team_pr']['merged'] == True:
                 graderow[assignment_team_pr] = gradebook.maxpoints[assignment_team_pr]
             else:
