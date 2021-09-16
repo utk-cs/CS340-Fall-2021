@@ -21,4 +21,4 @@
   -github username: oselyuti
 
 ##Project
-note or weather app, but open to suggestings from new members 
+weather app
