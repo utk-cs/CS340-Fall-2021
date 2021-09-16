@@ -93,7 +93,7 @@ akrneta:
     state: closed
   team_pr:
     merged: false
-    pr: 158
+    pr: 175
     state: open
 aphan2:
   github: xmrtonyx125
@@ -330,9 +330,9 @@ ciadonis:
     state: closed
   team: mothballs
   team_pr:
-    merged: false
+    merged: true
     pr: 138
-    state: open
+    state: closed
 cjohn260:
   github: colepjohn
   membership: accepted
@@ -414,7 +414,7 @@ cwang93:
     state: closed
   team_pr:
     merged: false
-    pr: 158
+    pr: 175
     state: open
 dbeaty:
   github: DBeatyPreston
@@ -488,7 +488,7 @@ dlee97:
     state: closed
 dmunsey4:
   github: Dev5ter
-  membership: invited
+  membership: accepted
   name: Devin Munsey
   netid: dmunsey4
   student_pr:
@@ -693,7 +693,7 @@ jananth2:
     state: closed
   team_pr:
     merged: false
-    pr: 158
+    pr: 175
     state: open
 jarmiger:
   github: jacob-armiger
@@ -739,8 +739,13 @@ jim5:
     state: closed
 jmuncy2:
   github: jmuncy2
+  membership: accepted
   name: Jackson Muncy
   netid: jmuncy2
+  student_pr:
+    merged: true
+    pr: 169
+    state: closed
   team: plumed
   team_pr:
     merged: true
@@ -757,9 +762,9 @@ jnotowic:
     state: closed
   team: mothballs
   team_pr:
-    merged: false
+    merged: true
     pr: 138
-    state: open
+    state: closed
 jpage21:
   github: jacobgpagee
   membership: accepted
@@ -883,9 +888,9 @@ kwooda13:
     state: closed
   team: mothballs
   team_pr:
-    merged: false
+    merged: true
     pr: 138
-    state: open
+    state: closed
 kyumhan:
   github: kyumhan
   membership: accepted
@@ -1093,7 +1098,7 @@ ndrake1:
     state: closed
   team_pr:
     merged: false
-    pr: 158
+    pr: 175
     state: open
 nmorri11:
   github: Notatoe
@@ -1139,7 +1144,7 @@ ntayefeh:
     state: closed
 nyy212:
   github: wiihop69
-  membership: invited
+  membership: accepted
   name: Will Hopkirk
   netid: nyy212
   student_pr:
@@ -1260,7 +1265,7 @@ robdgrif:
     state: closed
   team_pr:
     merged: false
-    pr: 158
+    pr: 175
     state: open
 rramire7:
   github: rramire7
@@ -1306,7 +1311,7 @@ rschenck:
     state: closed
 sblank11:
   github: SKBlank
-  membership: invited
+  membership: accepted
   name: Susan Blankenship
   netid: sblank11
   student_pr:
@@ -1404,7 +1409,7 @@ ssuresh6:
     state: closed
 sthomp89:
   github: Thalomir
-  membership: invited
+  membership: accepted
   name: Samuel Thompson
   netid: sthomp89
   student_pr:
