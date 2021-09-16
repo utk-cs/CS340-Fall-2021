@@ -269,6 +269,21 @@ mallard:
       name: Zi Win Lim
       netid: zlim2
   name: mallard
+mothballs:
+  members:
+    ciadonis:
+      github: ciadonisi
+      name: Caitlin Iadonisi
+      netid: ciadonis
+    jnotowic:
+      github: jnotowich
+      name: Jake Notowich
+      netid: jnotowic
+    kwooda13:
+      github: kwooda13
+      name: Kenneth Woodard
+      netid: kwooda13
+  name: mothballs
 notveryqt:
   members:
     awelden2:
