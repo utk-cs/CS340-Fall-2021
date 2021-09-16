@@ -25,10 +25,13 @@ def __main__():
                 print(f"WARN: {graderow[canvas_netid_col]} not in students.yml")
                 continue
             student = students[graderow[canvas_netid_col]]
-            print(f">>> Processing {student['name']}")
+            # print(f">>> Processing {student['name']}")
 
-            if student['student_pr']['merged_at'] > assignment_student_pr_due:
-                print(f"{student['netid']} has late personal PR")
+            if graderow[assignment_student_pr]:
+                # ignore grades already set
+                continue
+            elif pytz.utc.localize(student['student_pr']['merged_at']) > assignment_student_pr_due:
+                print(f"{student['name']} / {student['netid']} / {student['github']} has late personal PR")
                 graderow[assignment_student_pr] = 0
             else:
                 graderow[assignment_student_pr] = gradebook.maxpoints[assignment_student_pr]
