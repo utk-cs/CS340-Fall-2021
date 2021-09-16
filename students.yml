@@ -229,9 +229,9 @@ bmclaug6:
     state: closed
   team: Bepi
   team_pr:
-    merged: false
+    merged: true
     pr: 143
-    state: open
+    state: closed
 bparke37:
   github: bparke37
   membership: accepted
@@ -520,9 +520,9 @@ eander68:
     state: closed
   team: Bepi
   team_pr:
-    merged: false
+    merged: true
     pr: 143
-    state: open
+    state: closed
 elidberb:
   github: elidberb
   membership: accepted
@@ -646,9 +646,9 @@ ipelton:
     state: closed
   team: Bepi
   team_pr:
-    merged: false
+    merged: true
     pr: 143
-    state: open
+    state: closed
 jallbrit:
   github: jallbrit
   membership: accepted
@@ -1300,9 +1300,9 @@ sblank11:
     state: closed
   team: Bepi
   team_pr:
-    merged: false
+    merged: true
     pr: 143
-    state: open
+    state: closed
 sdahms:
   github: sdahms
   membership: accepted
