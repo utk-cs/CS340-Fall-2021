@@ -185,6 +185,29 @@ Team_alpha:
       name: Taha Naseem Khan
       netid: tkhan7
   name: Team_alpha
+alabio:
+  members:
+    batkhamj:
+      github: batkhamj
+      name: Brandon Atkhamjonov
+      netid: batkhamj
+    cmoore99:
+      github: Crestor123
+      name: Chris Moore
+      netid: cmoore99
+    mxw557:
+      github: jrduell
+      name: Jacob Duell
+      netid: mxw557
+    nmorri11:
+      github: Notatoe
+      name: Noah Mattson Morris
+      netid: nmorri11
+    pattle:
+      github: pattle-vols
+      name: Paul Attle
+      netid: pattle
+  name: alabio
 burritobrigade:
   members:
     aroman:

@@ -173,10 +173,11 @@ batkhamj:
     merged: true
     pr: 96
     state: closed
+  team: alabio
   team_pr:
-    merged: false
+    merged: true
     pr: 167
-    state: open
+    state: closed
 bdallstr:
   github: Bdallstr
   membership: accepted
@@ -366,10 +367,11 @@ cmoore99:
     merged: true
     pr: 61
     state: closed
+  team: alabio
   team_pr:
-    merged: false
+    merged: true
     pr: 167
-    state: open
+    state: closed
 crinks:
   github: CarolineRinks
   membership: accepted
@@ -735,7 +737,10 @@ jmuncy2:
   github: jmuncy2
   name: Jackson Muncy
   netid: jmuncy2
-  team_pr: null
+  team_pr:
+    merged: false
+    pr: 166
+    state: open
 jnotowic:
   github: jnotowich
   membership: accepted
@@ -1065,10 +1070,11 @@ mxw557:
     merged: true
     pr: 150
     state: closed
+  team: alabio
   team_pr:
-    merged: false
+    merged: true
     pr: 167
-    state: open
+    state: closed
 ndrake1:
   github: ndrake127
   membership: accepted
@@ -1091,10 +1097,11 @@ nmorri11:
     merged: true
     pr: 144
     state: closed
+  team: alabio
   team_pr:
-    merged: false
+    merged: true
     pr: 167
-    state: open
+    state: closed
 npatel79:
   github: napatel79
   membership: accepted
@@ -1174,10 +1181,11 @@ pattle:
     merged: true
     pr: 71
     state: closed
+  team: alabio
   team_pr:
-    merged: false
+    merged: true
     pr: 167
-    state: open
+    state: closed
 pbowlin1:
   github: bowlingparker
   membership: accepted
