@@ -124,6 +124,29 @@ Team-v2-FINAL1:
       name: Reed Semmel
       netid: reehsemm
   name: Team-v2-FINAL1
+TeamOK:
+  members:
+    awalsh15:
+      github: AndersonWalsh
+      name: Anderson Walsh
+      netid: awalsh15
+    fxie6:
+      github: Franklin-Xie
+      name: Franklin Xie
+      netid: fxie6
+    jsun36:
+      github: leoked
+      name: Jiawei Sun
+      netid: jsun36
+    lgangula:
+      github: LohithGangula
+      name: Lohith Gangula
+      netid: lgangula
+    oselyuti:
+      github: oselyuti
+      name: Alex Selyutin
+      netid: oselyuti
+  name: TeamOK
 Team_alpha:
   members:
     aphan2:

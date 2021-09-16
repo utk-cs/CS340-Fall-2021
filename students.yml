@@ -145,10 +145,11 @@ awalsh15:
     merged: true
     pr: 39
     state: closed
+  team: TeamOK
   team_pr:
-    merged: false
+    merged: true
     pr: 164
-    state: open
+    state: closed
 awelden2:
   github: awelden0
   membership: accepted
@@ -557,10 +558,11 @@ fxie6:
     merged: true
     pr: 31
     state: closed
+  team: TeamOK
   team_pr:
-    merged: false
+    merged: true
     pr: 164
-    state: open
+    state: closed
 gbrown39:
   github: gregbro2
   membership: accepted
@@ -781,10 +783,11 @@ jsun36:
     merged: true
     pr: 35
     state: closed
+  team: TeamOK
   team_pr:
-    merged: false
+    merged: true
     pr: 164
-    state: open
+    state: closed
 jwrig117:
   github: joshuakwright
   membership: accepted
@@ -891,10 +894,11 @@ lgangula:
     merged: true
     pr: 58
     state: closed
+  team: TeamOK
   team_pr:
-    merged: false
+    merged: true
     pr: 164
-    state: open
+    state: closed
 ljakstas:
   github: ljakstas
   membership: accepted
@@ -1139,10 +1143,11 @@ oselyuti:
     merged: true
     pr: 62
     state: closed
+  team: TeamOK
   team_pr:
-    merged: false
+    merged: true
     pr: 164
-    state: open
+    state: closed
 otrejome:
   github: omarsitoe
   membership: accepted
