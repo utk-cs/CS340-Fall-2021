@@ -38,6 +38,7 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams:
                 # "link": student_pulls[0].review_comments_url,
                 "state": student_pulls[0].state,
                 "merged": student_pulls[0].merged,
+                "merged_at": student_pulls[0].merged_at,
             }
             student_pull = student_pulls[0]
             if student['github'] in [u.login for u in org_members]:

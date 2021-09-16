@@ -16,3 +16,8 @@ iterations_due = {
     2: dt_parse("Thursday October 21st 23:59 2021"),
     3: dt_parse("Thursday November 4th 23:59 2021"),
 }
+
+canvas_netid_col = "SIS Login ID"
+assignment_student_pr = "Individual PR (1061014)"
+assignment_student_pr_due = dt_parse("Thursday September 9th 23:59 2021")
+assignment_team_pr = "Team PR (1061015)"

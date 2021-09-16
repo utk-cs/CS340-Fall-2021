@@ -5,6 +5,7 @@ abahour2:
   netid: abahour2
   student_pr:
     merged: true
+    merged_at: 2021-09-09 20:23:42
     pr: 147
     state: closed
   team: sack
@@ -19,6 +20,7 @@ abhayani:
   netid: abhayani
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:42:52
     pr: 37
     state: closed
   team: Team-v2-FINAL1
@@ -33,6 +35,7 @@ aesser:
   netid: aesser
   student_pr:
     merged: true
+    merged_at: 2021-09-07 23:03:49
     pr: 20
     state: closed
   team: tem
@@ -47,6 +50,7 @@ ahickm18:
   netid: ahickm18
   student_pr:
     merged: true
+    merged_at: 2021-09-09 18:35:38
     pr: 131
     state: closed
   team: tmpName
@@ -61,6 +65,7 @@ ahillhou:
   netid: ahillhou
   student_pr:
     merged: true
+    merged_at: 2021-09-09 22:12:59
     pr: 149
     state: closed
   team: plumed
@@ -75,6 +80,7 @@ ahughe51:
   netid: ahughe51
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:32:46
     pr: 81
     state: closed
   team: tmpName
@@ -89,6 +95,7 @@ akrneta:
   netid: akrneta
   student_pr:
     merged: true
+    merged_at: 2021-09-10 00:45:33
     pr: 154
     state: closed
   team_pr:
@@ -102,6 +109,7 @@ aphan2:
   netid: aphan2
   student_pr:
     merged: true
+    merged_at: 2021-09-08 20:24:37
     pr: 40
     state: closed
   team: Team_alpha
@@ -116,6 +124,7 @@ aroman:
   netid: aroman
   student_pr:
     merged: true
+    merged_at: 2021-09-09 18:07:32
     pr: 113
     state: closed
   team: burritobrigade
@@ -130,6 +139,7 @@ arutter1:
   netid: arutter1
   student_pr:
     merged: true
+    merged_at: 2021-09-04 01:46:10
     pr: 1
     state: closed
   team: taem
@@ -144,6 +154,7 @@ awalsh15:
   netid: awalsh15
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:41:39
     pr: 39
     state: closed
   team: TeamOK
@@ -158,6 +169,7 @@ awelden2:
   netid: awelden2
   student_pr:
     merged: true
+    merged_at: 2021-09-07 14:15:38
     pr: 14
     state: closed
   team: notveryqt
@@ -172,6 +184,7 @@ batkhamj:
   netid: batkhamj
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:21:49
     pr: 96
     state: closed
   team: alabio
@@ -186,6 +199,7 @@ bdallstr:
   netid: bdallstr
   student_pr:
     merged: true
+    merged_at: 2021-09-11 21:19:58
     pr: 157
     state: closed
   team: HappyLittleTrees
@@ -200,6 +214,7 @@ bgullet1:
   netid: bgullet1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 23:06:45
     pr: 36
     state: closed
   team: plumed
@@ -214,6 +229,7 @@ bklein3:
   netid: bklein3
   student_pr:
     merged: true
+    merged_at: 2021-09-07 19:24:11
     pr: 54
     state: closed
   team: taem
@@ -228,6 +244,7 @@ bmclaug6:
   netid: bmclaug6
   student_pr:
     merged: true
+    merged_at: 2021-09-09 02:47:46
     pr: 112
     state: closed
   team: Bepi
@@ -242,6 +259,7 @@ bparke37:
   netid: bparke37
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:19:15
     pr: 102
     state: closed
   team: relevant_
@@ -256,6 +274,7 @@ bschwar7:
   netid: bschwar7
   student_pr:
     merged: true
+    merged_at: 2021-09-07 16:44:29
     pr: 21
     state: closed
   team: NobleToads
@@ -270,6 +289,7 @@ cbrow216:
   netid: cbrow216
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:26:32
     pr: 50
     state: closed
   team: relevant_
@@ -284,6 +304,7 @@ ccondon:
   netid: ccondon
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:40:21
     pr: 70
     state: closed
   team: mallard
@@ -298,6 +319,7 @@ cdegawa:
   netid: cdegawa
   student_pr:
     merged: true
+    merged_at: 2021-09-06 19:57:52
     pr: 5
     state: closed
   team: Team-v2-FINAL1
@@ -312,6 +334,7 @@ cellio28:
   netid: cellio28
   student_pr:
     merged: true
+    merged_at: 2021-09-08 13:30:23
     pr: 59
     state: closed
   team: burritobrigade
@@ -326,6 +349,7 @@ ciadonis:
   netid: ciadonis
   student_pr:
     merged: true
+    merged_at: 2021-09-11 21:20:56
     pr: 145
     state: closed
   team: mothballs
@@ -340,6 +364,7 @@ cjohn260:
   netid: cjohn260
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:24:21
     pr: 42
     state: closed
   team: team_001
@@ -354,6 +379,7 @@ clee95:
   netid: clee95
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:37:53
     pr: 74
     state: closed
   team: Myteam5
@@ -368,6 +394,7 @@ cmoore99:
   netid: cmoore99
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:14:37
     pr: 61
     state: closed
   team: alabio
@@ -382,6 +409,7 @@ crinks:
   netid: crinks
   student_pr:
     merged: true
+    merged_at: 2021-09-07 19:26:07
     pr: 75
     state: closed
   team: team_001
@@ -396,6 +424,7 @@ csmit402:
   netid: csmit402
   student_pr:
     merged: true
+    merged_at: 2021-09-13 19:43:29
     pr: 163
     state: closed
   team: team_coconuts
@@ -410,6 +439,7 @@ cwang93:
   netid: cwang93
   student_pr:
     merged: true
+    merged_at: 2021-09-09 02:30:49
     pr: 116
     state: closed
   team_pr:
@@ -423,6 +453,7 @@ dbeaty:
   netid: dbeaty
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:29:45
     pr: 47
     state: closed
   team: team_001
@@ -437,6 +468,7 @@ dbyrd15:
   netid: dbyrd15
   student_pr:
     merged: true
+    merged_at: 2021-09-09 14:48:29
     pr: 127
     state: closed
   team: HappyLittleTrees
@@ -451,6 +483,7 @@ dhuang14:
   netid: dhuang14
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:13:15
     pr: 27
     state: closed
   team: tmpName
@@ -465,6 +498,7 @@ dkenne15:
   netid: dkenne15
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:21:36
     pr: 57
     state: closed
   team: notveryqt
@@ -479,6 +513,7 @@ dlee97:
   netid: dlee97
   student_pr:
     merged: true
+    merged_at: 2021-09-04 02:29:47
     pr: 3
     state: closed
   team: taem
@@ -493,6 +528,7 @@ dmunsey4:
   netid: dmunsey4
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:15:30
     pr: 60
     state: closed
   team: HappyLittleTrees
@@ -507,6 +543,7 @@ dwhite75:
   netid: dwhite75
   student_pr:
     merged: true
+    merged_at: 2021-09-09 22:14:37
     pr: 146
     state: closed
   team: Team_alpha
@@ -521,6 +558,7 @@ eander68:
   netid: eander68
   student_pr:
     merged: true
+    merged_at: 2021-09-07 14:00:45
     pr: 13
     state: closed
   team: Bepi
@@ -535,6 +573,7 @@ elidberb:
   netid: elidberb
   student_pr:
     merged: true
+    merged_at: 2021-09-07 20:15:10
     pr: 63
     state: closed
   team: dragon
@@ -549,6 +588,7 @@ fprawira:
   netid: fprawira
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:19:46
     pr: 101
     state: closed
   team: mallard
@@ -563,6 +603,7 @@ fxie6:
   netid: fxie6
   student_pr:
     merged: true
+    merged_at: 2021-09-08 12:07:48
     pr: 31
     state: closed
   team: TeamOK
@@ -577,6 +618,7 @@ gbrown39:
   netid: gbrown39
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:10:34
     pr: 19
     state: closed
   team: tem
@@ -591,6 +633,7 @@ gcroisda:
   netid: gcroisda
   student_pr:
     merged: true
+    merged_at: 2021-09-07 14:17:57
     pr: 15
     state: closed
   team: relevant_
@@ -605,6 +648,7 @@ gwebb13:
   netid: gwebb13
   student_pr:
     merged: true
+    merged_at: 2021-09-09 17:55:25
     pr: 134
     state: closed
   team: HappyLittleTrees
@@ -619,6 +663,7 @@ hlam4:
   netid: hlam4
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:45:18
     pr: 67
     state: closed
   team: team-622-infero
@@ -633,6 +678,7 @@ imacdoug:
   netid: imacdoug
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:28:34
     pr: 30
     state: closed
   team: team-622-infero
@@ -647,6 +693,7 @@ ipelton:
   netid: ipelton
   student_pr:
     merged: true
+    merged_at: 2021-09-07 13:40:45
     pr: 9
     state: closed
   team: Bepi
@@ -661,6 +708,7 @@ jallbrit:
   netid: jallbrit
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:55:40
     pr: 33
     state: closed
   team: notveryqt
@@ -675,6 +723,7 @@ jamin:
   netid: jamin
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:31:50
     pr: 26
     state: closed
   team: tem
@@ -689,6 +738,7 @@ jananth2:
   netid: jananth2
   student_pr:
     merged: true
+    merged_at: 2021-09-09 02:26:40
     pr: 53
     state: closed
   team_pr:
@@ -702,6 +752,7 @@ jarmiger:
   netid: jarmiger
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:30:18
     pr: 46
     state: closed
   team: notveryqt
@@ -716,6 +767,7 @@ jbradf19:
   netid: jbradf19
   student_pr:
     merged: true
+    merged_at: 2021-09-07 20:07:24
     pr: 65
     state: closed
   team: plumed
@@ -730,6 +782,7 @@ jim5:
   netid: jim5
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:30:05
     pr: 86
     state: closed
   team: Myteam5
@@ -744,6 +797,7 @@ jmuncy2:
   netid: jmuncy2
   student_pr:
     merged: true
+    merged_at: 2021-09-14 17:55:53
     pr: 169
     state: closed
   team: plumed
@@ -758,6 +812,7 @@ jnotowic:
   netid: jnotowic
   student_pr:
     merged: true
+    merged_at: 2021-09-09 20:22:23
     pr: 43
     state: closed
   team: mothballs
@@ -772,6 +827,7 @@ jpage21:
   netid: jpage21
   student_pr:
     merged: true
+    merged_at: 2021-09-09 22:09:17
     pr: 128
     state: closed
   team: teamlit
@@ -786,6 +842,7 @@ jrodri33:
   netid: jrodri33
   student_pr:
     merged: true
+    merged_at: 2021-09-09 14:46:35
     pr: 90
     state: closed
   team: Team-SUPER-AWESOME-MEGA-WOW
@@ -800,6 +857,7 @@ jsun36:
   netid: jsun36
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:43:32
     pr: 35
     state: closed
   team: TeamOK
@@ -814,6 +872,7 @@ jwrig117:
   netid: jwrig117
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:27:48
     pr: 87
     state: closed
   team: team_001
@@ -828,6 +887,7 @@ kcraddoc:
   netid: kcraddoc
   student_pr:
     merged: true
+    merged_at: 2021-09-09 17:12:30
     pr: 130
     state: closed
   team: sack
@@ -842,6 +902,7 @@ kleland:
   netid: kleland
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:35:17
     pr: 77
     state: closed
   team: TMWRK
@@ -856,6 +917,7 @@ kmaclin1:
   netid: kmaclin1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:14:21
     pr: 28
     state: closed
   team: NobleToads
@@ -870,6 +932,7 @@ kpatel68:
   netid: kpatel68
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:21:07
     pr: 98
     state: closed
   team: dragon
@@ -884,6 +947,7 @@ kwooda13:
   netid: kwooda13
   student_pr:
     merged: true
+    merged_at: 2021-09-08 19:21:57
     pr: 109
     state: closed
   team: mothballs
@@ -898,6 +962,7 @@ kyumhan:
   netid: kyumhan
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:33:34
     pr: 80
     state: closed
   team: Myteam5
@@ -912,6 +977,7 @@ lgangula:
   netid: lgangula
   student_pr:
     merged: true
+    merged_at: 2021-09-09 02:40:03
     pr: 58
     state: closed
   team: TeamOK
@@ -926,6 +992,7 @@ ljakstas:
   netid: ljakstas
   student_pr:
     merged: true
+    merged_at: 2021-09-07 10:24:16
     pr: 8
     state: closed
   team: notveryqt
@@ -940,6 +1007,7 @@ lmccombs:
   netid: lmccombs
   student_pr:
     merged: true
+    merged_at: 2021-09-07 14:44:54
     pr: 17
     state: closed
   team: NobleToads
@@ -954,6 +1022,7 @@ lprocto3:
   netid: lprocto3
   student_pr:
     merged: true
+    merged_at: 2021-09-09 04:38:12
     pr: 45
     state: closed
   team: team-622-infero
@@ -968,6 +1037,7 @@ lsharpe8:
   netid: lsharpe8
   student_pr:
     merged: true
+    merged_at: 2021-09-07 19:38:47
     pr: 89
     state: closed
   team: teamlit
@@ -982,6 +1052,7 @@ lwrinkle:
   netid: lwrinkle
   student_pr:
     merged: true
+    merged_at: 2021-09-06 19:59:01
     pr: 6
     state: closed
   team: team_coconuts
@@ -996,6 +1067,7 @@ mdeleon1:
   netid: mdeleon1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:30:55
     pr: 85
     state: closed
   team: Team-SUPER-AWESOME-MEGA-WOW
@@ -1010,6 +1082,7 @@ mdenise:
   netid: mdenise
   student_pr:
     merged: true
+    merged_at: 2021-09-08 19:50:09
     pr: 97
     state: closed
   team: thebugsquashers
@@ -1024,6 +1097,7 @@ mhughe36:
   netid: mhughe36
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:28:58
     pr: 93
     state: closed
   team: burritobrigade
@@ -1038,6 +1112,7 @@ mmathur:
   netid: mmathur
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:24:58
     pr: 94
     state: closed
   team: TMWRK
@@ -1052,6 +1127,7 @@ mwalte21:
   netid: mwalte21
   student_pr:
     merged: true
+    merged_at: 2021-09-08 00:37:57
     pr: 91
     state: closed
   team: teamlit
@@ -1066,6 +1142,7 @@ mwyatt14:
   netid: mwyatt14
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:24:28
     pr: 52
     state: closed
   team: burritobrigade
@@ -1080,6 +1157,7 @@ mxw557:
   netid: mxw557
   student_pr:
     merged: true
+    merged_at: 2021-09-09 22:30:17
     pr: 150
     state: closed
   team: alabio
@@ -1094,6 +1172,7 @@ ndrake1:
   netid: ndrake1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:26:53
     pr: 49
     state: closed
   team_pr:
@@ -1107,6 +1186,7 @@ nmorri11:
   netid: nmorri11
   student_pr:
     merged: true
+    merged_at: 2021-09-09 22:30:50
     pr: 144
     state: closed
   team: alabio
@@ -1121,6 +1201,7 @@ npatel79:
   netid: npatel79
   student_pr:
     merged: true
+    merged_at: 2021-09-07 13:43:10
     pr: 10
     state: closed
   team: Myteam5
@@ -1135,6 +1216,7 @@ ntayefeh:
   netid: ntayefeh
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:22:29
     pr: 95
     state: closed
   team: Myteam5
@@ -1149,6 +1231,7 @@ nyy212:
   netid: nyy212
   student_pr:
     merged: true
+    merged_at: 2021-09-09 03:58:15
     pr: 34
     state: closed
   team: mallard
@@ -1163,6 +1246,7 @@ oselyuti:
   netid: oselyuti
   student_pr:
     merged: true
+    merged_at: 2021-09-10 01:37:13
     pr: 62
     state: closed
   team: TeamOK
@@ -1177,6 +1261,7 @@ otrejome:
   netid: otrejome
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:32:01
     pr: 82
     state: closed
   team: team_coconuts
@@ -1191,6 +1276,7 @@ pattle:
   netid: pattle
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:39:46
     pr: 71
     state: closed
   team: alabio
@@ -1205,6 +1291,7 @@ pbowlin1:
   netid: pbowlin1
   student_pr:
     merged: true
+    merged_at: 2021-09-08 18:07:00
     pr: 64
     state: closed
   team: thebugsquashers
@@ -1219,6 +1306,7 @@ pcollie4:
   netid: pcollie4
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:35:47
     pr: 76
     state: closed
   team: team-622-infero
@@ -1233,6 +1321,7 @@ pvelas:
   netid: pvelas
   student_pr:
     merged: true
+    merged_at: 2021-09-07 16:42:34
     pr: 23
     state: closed
   team: tmpName
@@ -1247,6 +1336,7 @@ reehsemm:
   netid: reehsemm
   student_pr:
     merged: true
+    merged_at: 2021-09-06 19:21:00
     pr: 4
     state: closed
   team: Team-v2-FINAL1
@@ -1261,6 +1351,7 @@ robdgrif:
   netid: robdgrif
   student_pr:
     merged: true
+    merged_at: 2021-09-09 19:14:43
     pr: 139
     state: closed
   team_pr:
@@ -1274,6 +1365,7 @@ rramire7:
   netid: rramire7
   student_pr:
     merged: true
+    merged_at: 2021-09-07 23:08:32
     pr: 84
     state: closed
   team: mallard
@@ -1288,6 +1380,7 @@ rschaff1:
   netid: rschaff1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:34:35
     pr: 79
     state: closed
   team: TMWRK
@@ -1302,6 +1395,7 @@ rschenck:
   netid: rschenck
   student_pr:
     merged: true
+    merged_at: 2021-09-07 20:05:18
     pr: 66
     state: closed
   team: HappyLittleTrees
@@ -1316,6 +1410,7 @@ sblank11:
   netid: sblank11
   student_pr:
     merged: true
+    merged_at: 2021-09-09 05:06:22
     pr: 126
     state: closed
   team: Bepi
@@ -1330,6 +1425,7 @@ sdahms:
   netid: sdahms
   student_pr:
     merged: true
+    merged_at: 2021-09-09 17:49:00
     pr: 132
     state: closed
   team: thebugsquashers
@@ -1344,6 +1440,7 @@ sjohn248:
   netid: sjohn248
   student_pr:
     merged: true
+    merged_at: 2021-09-09 02:31:20
     pr: 115
     state: closed
   team: Team_alpha
@@ -1358,6 +1455,7 @@ slaughl2:
   netid: slaughl2
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:25:16
     pr: 29
     state: closed
   team: tem
@@ -1372,6 +1470,7 @@ spate118:
   netid: spate118
   student_pr:
     merged: true
+    merged_at: 2021-09-08 20:38:07
     pr: 16
     state: closed
   team: tem
@@ -1386,6 +1485,7 @@ spunjani:
   netid: spunjani
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:40:57
     pr: 68
     state: closed
   team: sack
@@ -1400,6 +1500,7 @@ ssuresh6:
   netid: ssuresh6
   student_pr:
     merged: true
+    merged_at: 2021-09-09 18:21:24
     pr: 119
     state: closed
   team: thebugsquashers
@@ -1414,6 +1515,7 @@ sthomp89:
   netid: sthomp89
   student_pr:
     merged: true
+    merged_at: 2021-09-07 17:01:44
     pr: 25
     state: closed
   team: NobleToads
@@ -1428,6 +1530,7 @@ sxue3:
   netid: sxue3
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:28:32
     pr: 48
     state: closed
   team: team_coconuts
@@ -1442,6 +1545,7 @@ tainley:
   netid: tainley
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:42:15
     pr: 38
     state: closed
   team: plumed
@@ -1456,6 +1560,7 @@ tfowler6:
   netid: tfowler6
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:29:29
     pr: 92
     state: closed
   team: dragon
@@ -1470,6 +1575,7 @@ tkhan7:
   netid: tkhan7
   student_pr:
     merged: true
+    merged_at: 2021-09-09 17:11:09
     pr: 129
     state: closed
   team: Team_alpha
@@ -1484,6 +1590,7 @@ tneuefei:
   netid: tneuefei
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:20:22
     pr: 99
     state: closed
   team: TMWRK
@@ -1498,6 +1605,7 @@ tplayer:
   netid: tplayer
   student_pr:
     merged: true
+    merged_at: 2021-09-07 13:57:26
     pr: 12
     state: closed
   team: dragon
@@ -1512,6 +1620,7 @@ vaiely:
   netid: vaiely
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:35:27
     pr: 44
     state: closed
   team: team_coconuts
@@ -1526,6 +1635,7 @@ vbhupati:
   netid: vbhupati
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:24:47
     pr: 51
     state: closed
   team: tmpName
@@ -1540,6 +1650,7 @@ vhanset:
   netid: vhanset
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:38:56
     pr: 72
     state: closed
   team: teamlit
@@ -1554,6 +1665,7 @@ vrb684:
   netid: vrb684
   student_pr:
     merged: true
+    merged_at: 2021-09-09 20:17:15
     pr: 73
     state: closed
   team: Team-SUPER-AWESOME-MEGA-WOW
@@ -1568,6 +1680,7 @@ wjohns53:
   netid: wjohns53
   student_pr:
     merged: true
+    merged_at: 2021-09-07 10:23:20
     pr: 7
     state: closed
   team: TMWRK
@@ -1582,6 +1695,7 @@ wparham1:
   netid: wparham1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:28:26
     pr: 88
     state: closed
   team: sack
@@ -1596,6 +1710,7 @@ yahmad1:
   netid: yahmad1
   student_pr:
     merged: true
+    merged_at: 2021-09-07 16:53:59
     pr: 24
     state: closed
   team: NobleToads
@@ -1610,6 +1725,7 @@ zhamm:
   netid: zhamm
   student_pr:
     merged: true
+    merged_at: 2021-09-07 22:22:20
     pr: 55
     state: closed
   team: Team-SUPER-AWESOME-MEGA-WOW
@@ -1624,6 +1740,7 @@ zlim2:
   netid: zlim2
   student_pr:
     merged: true
+    merged_at: 2021-09-10 01:36:21
     pr: 114
     state: closed
   team: mallard
