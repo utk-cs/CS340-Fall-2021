@@ -227,6 +227,7 @@ bmclaug6:
     merged: true
     pr: 112
     state: closed
+  team: Bepi
   team_pr:
     merged: false
     pr: 143
@@ -517,6 +518,7 @@ eander68:
     merged: true
     pr: 13
     state: closed
+  team: Bepi
   team_pr:
     merged: false
     pr: 143
@@ -642,6 +644,7 @@ ipelton:
     merged: true
     pr: 9
     state: closed
+  team: Bepi
   team_pr:
     merged: false
     pr: 143
@@ -1295,6 +1298,7 @@ sblank11:
     merged: true
     pr: 126
     state: closed
+  team: Bepi
   team_pr:
     merged: false
     pr: 143
