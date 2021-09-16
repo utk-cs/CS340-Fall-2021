@@ -292,6 +292,29 @@ notveryqt:
       name: Lukas Jakstas
       netid: ljakstas
   name: notveryqt
+plumed:
+  members:
+    ahillhou:
+      github: ahillhou
+      name: Andy Hillhouse
+      netid: ahillhou
+    bgullet1:
+      github: BGull00
+      name: Bryson Gullett
+      netid: bgullet1
+    jbradf19:
+      github: jAllieB
+      name: Juliet Allison Bradford
+      netid: jbradf19
+    jmuncy2:
+      github: jmuncy2
+      name: Jackson Muncy
+      netid: jmuncy2
+    tainley:
+      github: tristan-ainley
+      name: Tristan Ainley
+      netid: tainley
+  name: plumed
 relevant_:
   members:
     bparke37:

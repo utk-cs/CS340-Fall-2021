@@ -63,10 +63,11 @@ ahillhou:
     merged: true
     pr: 149
     state: closed
+  team: plumed
   team_pr:
-    merged: false
+    merged: true
     pr: 166
-    state: open
+    state: closed
 ahughe51:
   github: FueledByPants
   membership: accepted
@@ -201,10 +202,11 @@ bgullet1:
     merged: true
     pr: 36
     state: closed
+  team: plumed
   team_pr:
-    merged: false
+    merged: true
     pr: 166
-    state: open
+    state: closed
 bklein3:
   github: robobenklein
   membership: accepted
@@ -715,10 +717,11 @@ jbradf19:
     merged: true
     pr: 65
     state: closed
+  team: plumed
   team_pr:
-    merged: false
+    merged: true
     pr: 166
-    state: open
+    state: closed
 jim5:
   github: troy51538
   membership: accepted
@@ -737,10 +740,11 @@ jmuncy2:
   github: jmuncy2
   name: Jackson Muncy
   netid: jmuncy2
+  team: plumed
   team_pr:
-    merged: false
+    merged: true
     pr: 166
-    state: open
+    state: closed
 jnotowic:
   github: jnotowich
   membership: accepted
@@ -1432,10 +1436,11 @@ tainley:
     merged: true
     pr: 38
     state: closed
+  team: plumed
   team_pr:
-    merged: false
+    merged: true
     pr: 166
-    state: open
+    state: closed
 tfowler6:
   github: tfowler6
   membership: accepted
