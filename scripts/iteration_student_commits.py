@@ -19,7 +19,7 @@ ta_team = utkcs.get_team_by_slug("taem")
 # for k, dt in iterations_due.items():
 #     print(f"Iteration {k} due at {dt}")
 
-parser = argparse.ArgumentParser(description="Checker for student commits")
+parser = argparse.ArgumentParser(description="Collector for student commits in an iteration")
 
 parser.add_argument(
     '--iteration', '-i',
