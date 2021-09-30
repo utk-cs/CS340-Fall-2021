@@ -13,10 +13,12 @@ studentfile = Path("students.yml")
 repofile = Path("repos.yml")
 ta_assignment_file = Path("ta-assignments.yml")
 
+a_week = timedelta(days=7)
 iterations_due = {
-    1: dt_parse("Thursday October  7th 23:59 2021"),
-    2: dt_parse("Thursday October 21st 23:59 2021"),
-    3: dt_parse("Thursday November 4th 23:59 2021"),
+    0: dt_parse("Thursday September 16th 23:59 2021"),
+    1: dt_parse("Thursday October    7th 23:59 2021"),
+    2: dt_parse("Thursday October   21st 23:59 2021"),
+    3: dt_parse("Thursday November   4th 23:59 2021"),
 }
 
 canvas_netid_col = "SIS Login ID"

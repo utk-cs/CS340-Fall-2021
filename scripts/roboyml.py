@@ -3,9 +3,11 @@ from contextlib import contextmanager
 import yaml
 from pathlib import Path
 
-def load(file: Path):
+def load(file: Path, default = {}):
     with file.open('r') as f:
         data = yaml.safe_load(f)
+    if data is None:
+        data = default
     return data
 
 def save(file: Path, data):
