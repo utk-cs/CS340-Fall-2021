@@ -11,6 +11,7 @@ load_dotenv()
 teamfile = Path("teams.yml")
 studentfile = Path("students.yml")
 repofile = Path("repos.yml")
+ta_assignment_file = Path("ta-assignments.yml")
 
 iterations_due = {
     1: dt_parse("Thursday October  7th 23:59 2021"),
