@@ -70,17 +70,23 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
 
         for week_num in iteration_weeks.keys():
             # now we iterate commits during this iteration:
+            since=iterations_due[args.iteration-1] + (a_week * (week_num-1))
+            until=iterations_due[args.iteration-1] + (a_week * (week_num))
             repo_commits = gh_repo.get_commits(
-                since=iterations_due[args.iteration-1] + (a_week * (week_num-1)),
-                until=iterations_due[args.iteration-1] + (a_week * (week_num)),
+                since=since, until=until,
             )
+            if repo_commits.totalCount == 0:
+                print(f"WARN: entire team has no commits in week {week_num}! {since} to {until}")
             for commit in repo_commits:
+                when_committed = class_timezone.localize(commit.commit.author.date)
+                print(f"Processing commit in week {week_num}: {commit.sha} at {when_committed}")
                 if not commit.author:
                     print(f"ERROR: Commit has no GitHub account: {commit.sha}")
                     output[teamname]["bad_committer"][commit.sha] = {
                         "user": None,
                         "week": week_num,
                         "html_url": commit.html_url,
+                        "commit_time": when_committed,
                     }
                     continue
                 if commit.author.login not in output[teamname]:
@@ -92,6 +98,7 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
                         "user": commit.author.login,
                         "html_url": commit.html_url,
                         "week": week_num,
+                        "commit_time": when_committed,
                     }
                     continue
                 output[teamname][commit.author.login]["commits"][commit.sha] = {
@@ -100,6 +107,7 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
                     "total": commit.stats.total,
                     "html_url": commit.html_url,
                     "week": week_num,
+                    "commit_time": when_committed,
                 }
                 output[teamname][commit.author.login]["weekly_count"][week_num] += 1
 

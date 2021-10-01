@@ -43,6 +43,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
+iterations_due = iterations_due_aware
 gh_milestone_name = f"Iteration {args.iteration}"
 iteration_timedelta = iterations_due[args.iteration] - iterations_due[args.iteration-1]
 iteration_weeks = {
@@ -51,7 +52,7 @@ iteration_weeks = {
 for week_num in list(iteration_weeks.keys()):
     since = iterations_due[args.iteration-1] + (a_week * (week_num-1))
     until = iterations_due[args.iteration-1] + (a_week * (week_num))
-    if since > datetime.now():
+    if since > datetime.utcnow():
         print(f"Skipping week {week_num} which is in the future: {since}")
         del iteration_weeks[week_num]
     else:
