@@ -13,6 +13,7 @@ studentfile = Path("students.yml")
 repofile = Path("repos.yml")
 ta_assignment_file = Path("ta-assignments.yml")
 
+class_timezone = pytz.timezone('America/New_York')
 a_week = timedelta(days=7)
 iterations_due = {
     0: dt_parse("Thursday September 16th 23:59 2021"),
@@ -21,7 +22,7 @@ iterations_due = {
     3: dt_parse("Thursday November   4th 23:59 2021"),
 }
 iterations_due_aware = {
-    n: d for n, d in ((n, d.replace(tzinfo=pytz.timezone('America/New_York'))) for n, d in iterations_due.items())
+    n: d for n, d in ((n, class_timezone.localize(d)) for n, d in iterations_due.items())
 }
 
 canvas_netid_col = "SIS Login ID"
