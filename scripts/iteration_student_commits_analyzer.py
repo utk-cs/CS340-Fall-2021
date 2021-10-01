@@ -66,6 +66,7 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
     no_commits_in_week = {
         n: set() for n in iteration_weeks.keys()
     }
+    no_commits_at_all = set([s["github"] for s in students.values()])
     for teamname, team in teams.items():
         if teamname == ta_team:
             continue
@@ -89,16 +90,29 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
                 if count == 0:
                     no_commits_in_week[wn].add(gh_username)
 
+            if not cdata["commits"] and gh_username in no_commits_at_all:
+                no_commits_at_all.remove(gh_username)
+
         print(f">>> Processing {teamname} ...")
 
     for n, users in no_commits_in_week.items():
         print(f"=== Week {n} zero commits ({len(users)}): {users}")
         missed_a_week_of_commits |= users
 
-    print(f"Users who missed a week of commits: {len(missed_a_week_of_commits)}")
+    print(f"=== Users who missed a week of commits: {len(missed_a_week_of_commits)}")
 
     emails = set()
     for gh_username in missed_a_week_of_commits:
+        student = [s for s in students.values() if s['github'].lower() == gh_username.lower()]
+        assert len(student) == 1
+        student = student[0]
+        emails.add(f"{student['netid']}@vols.utk.edu")
+
+    print(f"Email list: {', '.join(emails)}")
+
+    print(f"=== Users who have no commits at all for this iteration: {len(no_commits_at_all)}")
+    emails = set()
+    for gh_username in no_commits_at_all:
         student = [s for s in students.values() if s['github'].lower() == gh_username.lower()]
         assert len(student) == 1
         student = student[0]

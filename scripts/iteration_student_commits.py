@@ -30,6 +30,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
+iterations_due = iterations_due_aware
 gh_milestone_name = f"Iteration {args.iteration}"
 iteration_timedelta = iterations_due[args.iteration] - iterations_due[args.iteration-1]
 iteration_weeks = {
