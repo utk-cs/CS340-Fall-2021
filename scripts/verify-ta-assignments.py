@@ -15,6 +15,7 @@ with roboyml.open(studentfile) as students, roboyml.open(teamfile) as teams, rob
             unassigned_teamnames.remove(teamname)
             if teamname not in teams.keys():
                 print(f"{ta} not linked to {teamname}")
+            teams[teamname]["ta"] = ta
         print(f"{ta} responsible for {len(teamnames)} teams")
 
     print(f"Unassigned teams: {unassigned_teamnames}")
